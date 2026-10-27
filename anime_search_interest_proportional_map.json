@@ -1,0 +1,426 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "font": "Poppins",
+    "fontSize": 22,
+    "subtitleFont": "Poppins",
+    "subtitleFontSize": 12,
+    "subtitleColor": "#596579",
+    "anchor": "middle"
+  },
+  "width": 905,
+  "height": 490,
+  "projection": {
+    "type": "equalEarth"
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://cdn.jsdelivr.net/npm/vega-datasets@2/data/world-110m.json",
+        "format": {
+          "type": "topojson",
+          "feature": "countries"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#e3e7ec",
+        "stroke": "#cbd4df",
+        "strokeWidth": 0.6
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "country": "Australia",
+            "interest": 100,
+            "lon": 134,
+            "lat": -25
+          },
+          {
+            "country": "Brazil",
+            "interest": 88,
+            "lon": -52,
+            "lat": -12
+          },
+          {
+            "country": "Mexico",
+            "interest": 82,
+            "lon": -102,
+            "lat": 24
+          },
+          {
+            "country": "Indonesia",
+            "interest": 81,
+            "lon": 118,
+            "lat": -3
+          },
+          {
+            "country": "United States",
+            "interest": 77,
+            "lon": -98,
+            "lat": 39
+          },
+          {
+            "country": "Chile",
+            "interest": 70,
+            "lon": -71,
+            "lat": -33
+          },
+          {
+            "country": "Argentina",
+            "interest": 70,
+            "lon": -64,
+            "lat": -35
+          },
+          {
+            "country": "Peru",
+            "interest": 69,
+            "lon": -75,
+            "lat": -10
+          },
+          {
+            "country": "Ecuador",
+            "interest": 68,
+            "lon": -78,
+            "lat": -1
+          },
+          {
+            "country": "Colombia",
+            "interest": 67,
+            "lon": -74,
+            "lat": 4
+          },
+          {
+            "country": "Vietnam",
+            "interest": 67,
+            "lon": 107,
+            "lat": 16
+          },
+          {
+            "country": "Morocco",
+            "interest": 64,
+            "lon": -7,
+            "lat": 32
+          },
+          {
+            "country": "Malaysia",
+            "interest": 62,
+            "lon": 102,
+            "lat": 4
+          },
+          {
+            "country": "Venezuela",
+            "interest": 61,
+            "lon": -66,
+            "lat": 7
+          },
+          {
+            "country": "France",
+            "interest": 60,
+            "lon": 2,
+            "lat": 47
+          },
+          {
+            "country": "Italy",
+            "interest": 59,
+            "lon": 12,
+            "lat": 43
+          },
+          {
+            "country": "Canada",
+            "interest": 58,
+            "lon": -105,
+            "lat": 57
+          },
+          {
+            "country": "Saudi Arabia",
+            "interest": 58,
+            "lon": 45,
+            "lat": 24
+          },
+          {
+            "country": "United Kingdom",
+            "interest": 57,
+            "lon": -3,
+            "lat": 55
+          },
+          {
+            "country": "Spain",
+            "interest": 56,
+            "lon": -4,
+            "lat": 40
+          },
+          {
+            "country": "Germany",
+            "interest": 54,
+            "lon": 10,
+            "lat": 51
+          },
+          {
+            "country": "Egypt",
+            "interest": 53,
+            "lon": 30,
+            "lat": 27
+          },
+          {
+            "country": "Thailand",
+            "interest": 52,
+            "lon": 101,
+            "lat": 15
+          },
+          {
+            "country": "Poland",
+            "interest": 50,
+            "lon": 19,
+            "lat": 52
+          },
+          {
+            "country": "Japan",
+            "interest": 49,
+            "lon": 138,
+            "lat": 37
+          },
+          {
+            "country": "Russia",
+            "interest": 48,
+            "lon": 95,
+            "lat": 62
+          },
+          {
+            "country": "South Africa",
+            "interest": 47,
+            "lon": 24,
+            "lat": -29
+          },
+          {
+            "country": "India",
+            "interest": 45,
+            "lon": 79,
+            "lat": 23
+          },
+          {
+            "country": "Netherlands",
+            "interest": 42,
+            "lon": 5,
+            "lat": 52
+          },
+          {
+            "country": "Portugal",
+            "interest": 42,
+            "lon": -8,
+            "lat": 39
+          },
+          {
+            "country": "Pakistan",
+            "interest": 41,
+            "lon": 69,
+            "lat": 30
+          },
+          {
+            "country": "Sweden",
+            "interest": 40,
+            "lon": 15,
+            "lat": 62
+          },
+          {
+            "country": "United Arab Emirates",
+            "interest": 39,
+            "lon": 54,
+            "lat": 24
+          },
+          {
+            "country": "Belgium",
+            "interest": 38,
+            "lon": 5,
+            "lat": 50
+          },
+          {
+            "country": "Denmark",
+            "interest": 37,
+            "lon": 10,
+            "lat": 56
+          },
+          {
+            "country": "Nigeria",
+            "interest": 37,
+            "lon": 8,
+            "lat": 9
+          },
+          {
+            "country": "Norway",
+            "interest": 36,
+            "lon": 9,
+            "lat": 61
+          },
+          {
+            "country": "Finland",
+            "interest": 35,
+            "lon": 26,
+            "lat": 64
+          },
+          {
+            "country": "Ireland",
+            "interest": 35,
+            "lon": -8,
+            "lat": 53
+          },
+          {
+            "country": "New Zealand",
+            "interest": 35,
+            "lon": 172,
+            "lat": -41
+          },
+          {
+            "country": "Czech Republic",
+            "interest": 34,
+            "lon": 15,
+            "lat": 49
+          },
+          {
+            "country": "Austria",
+            "interest": 33,
+            "lon": 14,
+            "lat": 48
+          },
+          {
+            "country": "Romania",
+            "interest": 32,
+            "lon": 25,
+            "lat": 46
+          },
+          {
+            "country": "Switzerland",
+            "interest": 32,
+            "lon": 8,
+            "lat": 47
+          },
+          {
+            "country": "Greece",
+            "interest": 31,
+            "lon": 23,
+            "lat": 39
+          },
+          {
+            "country": "Ukraine",
+            "interest": 30,
+            "lon": 32,
+            "lat": 49
+          },
+          {
+            "country": "Hungary",
+            "interest": 29,
+            "lon": 19,
+            "lat": 47
+          },
+          {
+            "country": "Israel",
+            "interest": 29,
+            "lon": 35,
+            "lat": 31
+          },
+          {
+            "country": "South Korea",
+            "interest": 28,
+            "lon": 128,
+            "lat": 36
+          },
+          {
+            "country": "Singapore",
+            "interest": 26,
+            "lon": 104,
+            "lat": 1
+          },
+          {
+            "country": "Bulgaria",
+            "interest": 25,
+            "lon": 25,
+            "lat": 43
+          },
+          {
+            "country": "Guatemala",
+            "interest": 25,
+            "lon": -90,
+            "lat": 15
+          },
+          {
+            "country": "Kazakhstan",
+            "interest": 25,
+            "lon": 68,
+            "lat": 48
+          },
+          {
+            "country": "Türkiye",
+            "interest": 25,
+            "lon": 35,
+            "lat": 39
+          }
+        ]
+      },
+      "mark": {
+        "type": "circle",
+        "opacity": 0.7,
+        "color": "#f28b52",
+        "stroke": "#a84d27",
+        "strokeWidth": 0.6
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "size": {
+          "field": "interest",
+          "type": "quantitative",
+          "scale": {
+            "type": "sqrt",
+            "domain": [
+              0,
+              100
+            ],
+            "range": [
+              0,
+              1700
+            ]
+          },
+          "legend": {
+            "title": "Search interest (0–100)",
+            "orient": "bottom-left",
+            "titleFont": "Poppins",
+            "labelFont": "Poppins"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "country",
+            "type": "nominal",
+            "title": "Country"
+          },
+          {
+            "field": "interest",
+            "type": "quantitative",
+            "title": "Relative search interest"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "background": "#e6f4fb",
+    "title": {
+      "font": "Poppins"
+    },
+    "legend": {
+      "labelFont": "Poppins",
+      "titleFont": "Poppins"
+    }
+  }
+}

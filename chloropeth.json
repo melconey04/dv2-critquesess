@@ -2,7 +2,6 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 800,
   "height": 430,
-  "title": "Japanese animation overseas — works licensed",
   "projection": {
     "type": "equalEarth"
   },

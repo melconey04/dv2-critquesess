@@ -63,3 +63,6 @@ vegaEmbed("#chart7", "heatmap.json")
 
 vegaEmbed("#chart8", "slopechart.json")
   .catch(console.error);
+
+vegaEmbed("#chart9", "anime_search_interest_proportional_map.json")
+.catch(console.error);
