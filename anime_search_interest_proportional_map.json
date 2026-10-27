@@ -1,13 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {
-    "font": "Poppins",
-    "fontSize": 22,
-    "subtitleFont": "Poppins",
-    "subtitleFontSize": 12,
-    "subtitleColor": "#596579",
-    "anchor": "middle"
-  },
   "width": 905,
   "height": 490,
   "projection": {
