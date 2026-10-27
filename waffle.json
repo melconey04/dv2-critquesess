@@ -1,0 +1,1143 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Waffle chart of the reported age profile for SMASH! Chibi 2025. One square is approximately one percentage point; square allocations are rounded to whole tiles.",
+  "title": {
+    "text": "Who attends anime conventions?",
+    "subtitle": "Reported age profile for SMASH! Chibi 2025 · each square ≈ 1 percentage point"
+  },
+  "data": {
+    "values": [
+      {
+        "tile": 1,
+        "x": "1",
+        "y": "1",
+        "age_group": "Under 12",
+        "age_label": "Under 12 (3.6%)",
+        "reported_share": 3.6,
+        "tile_count": 3,
+        "tile_share_rounded": 3
+      },
+      {
+        "tile": 2,
+        "x": "2",
+        "y": "1",
+        "age_group": "Under 12",
+        "age_label": "Under 12 (3.6%)",
+        "reported_share": 3.6,
+        "tile_count": 3,
+        "tile_share_rounded": 3
+      },
+      {
+        "tile": 3,
+        "x": "3",
+        "y": "1",
+        "age_group": "Under 12",
+        "age_label": "Under 12 (3.6%)",
+        "reported_share": 3.6,
+        "tile_count": 3,
+        "tile_share_rounded": 3
+      },
+      {
+        "tile": 4,
+        "x": "4",
+        "y": "1",
+        "age_group": "12–16",
+        "age_label": "12–16 (6.5%)",
+        "reported_share": 6.5,
+        "tile_count": 7,
+        "tile_share_rounded": 7
+      },
+      {
+        "tile": 5,
+        "x": "5",
+        "y": "1",
+        "age_group": "12–16",
+        "age_label": "12–16 (6.5%)",
+        "reported_share": 6.5,
+        "tile_count": 7,
+        "tile_share_rounded": 7
+      },
+      {
+        "tile": 6,
+        "x": "6",
+        "y": "1",
+        "age_group": "12–16",
+        "age_label": "12–16 (6.5%)",
+        "reported_share": 6.5,
+        "tile_count": 7,
+        "tile_share_rounded": 7
+      },
+      {
+        "tile": 7,
+        "x": "7",
+        "y": "1",
+        "age_group": "12–16",
+        "age_label": "12–16 (6.5%)",
+        "reported_share": 6.5,
+        "tile_count": 7,
+        "tile_share_rounded": 7
+      },
+      {
+        "tile": 8,
+        "x": "8",
+        "y": "1",
+        "age_group": "12–16",
+        "age_label": "12–16 (6.5%)",
+        "reported_share": 6.5,
+        "tile_count": 7,
+        "tile_share_rounded": 7
+      },
+      {
+        "tile": 9,
+        "x": "9",
+        "y": "1",
+        "age_group": "12–16",
+        "age_label": "12–16 (6.5%)",
+        "reported_share": 6.5,
+        "tile_count": 7,
+        "tile_share_rounded": 7
+      },
+      {
+        "tile": 10,
+        "x": "10",
+        "y": "1",
+        "age_group": "12–16",
+        "age_label": "12–16 (6.5%)",
+        "reported_share": 6.5,
+        "tile_count": 7,
+        "tile_share_rounded": 7
+      },
+      {
+        "tile": 11,
+        "x": "1",
+        "y": "2",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 12,
+        "x": "2",
+        "y": "2",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 13,
+        "x": "3",
+        "y": "2",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 14,
+        "x": "4",
+        "y": "2",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 15,
+        "x": "5",
+        "y": "2",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 16,
+        "x": "6",
+        "y": "2",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 17,
+        "x": "7",
+        "y": "2",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 18,
+        "x": "8",
+        "y": "2",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 19,
+        "x": "9",
+        "y": "2",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 20,
+        "x": "10",
+        "y": "2",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 21,
+        "x": "1",
+        "y": "3",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 22,
+        "x": "2",
+        "y": "3",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 23,
+        "x": "3",
+        "y": "3",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 24,
+        "x": "4",
+        "y": "3",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 25,
+        "x": "5",
+        "y": "3",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 26,
+        "x": "6",
+        "y": "3",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 27,
+        "x": "7",
+        "y": "3",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 28,
+        "x": "8",
+        "y": "3",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 29,
+        "x": "9",
+        "y": "3",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 30,
+        "x": "10",
+        "y": "3",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 31,
+        "x": "1",
+        "y": "4",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 32,
+        "x": "2",
+        "y": "4",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 33,
+        "x": "3",
+        "y": "4",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 34,
+        "x": "4",
+        "y": "4",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 35,
+        "x": "5",
+        "y": "4",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 36,
+        "x": "6",
+        "y": "4",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 37,
+        "x": "7",
+        "y": "4",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 38,
+        "x": "8",
+        "y": "4",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 39,
+        "x": "9",
+        "y": "4",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 40,
+        "x": "10",
+        "y": "4",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 41,
+        "x": "1",
+        "y": "5",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 42,
+        "x": "2",
+        "y": "5",
+        "age_group": "17–21",
+        "age_label": "17–21 (31.8%)",
+        "reported_share": 31.8,
+        "tile_count": 32,
+        "tile_share_rounded": 32
+      },
+      {
+        "tile": 43,
+        "x": "3",
+        "y": "5",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 44,
+        "x": "4",
+        "y": "5",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 45,
+        "x": "5",
+        "y": "5",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 46,
+        "x": "6",
+        "y": "5",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 47,
+        "x": "7",
+        "y": "5",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 48,
+        "x": "8",
+        "y": "5",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 49,
+        "x": "9",
+        "y": "5",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 50,
+        "x": "10",
+        "y": "5",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 51,
+        "x": "1",
+        "y": "6",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 52,
+        "x": "2",
+        "y": "6",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 53,
+        "x": "3",
+        "y": "6",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 54,
+        "x": "4",
+        "y": "6",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 55,
+        "x": "5",
+        "y": "6",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 56,
+        "x": "6",
+        "y": "6",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 57,
+        "x": "7",
+        "y": "6",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 58,
+        "x": "8",
+        "y": "6",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 59,
+        "x": "9",
+        "y": "6",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 60,
+        "x": "10",
+        "y": "6",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 61,
+        "x": "1",
+        "y": "7",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 62,
+        "x": "2",
+        "y": "7",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 63,
+        "x": "3",
+        "y": "7",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 64,
+        "x": "4",
+        "y": "7",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 65,
+        "x": "5",
+        "y": "7",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 66,
+        "x": "6",
+        "y": "7",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 67,
+        "x": "7",
+        "y": "7",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 68,
+        "x": "8",
+        "y": "7",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 69,
+        "x": "9",
+        "y": "7",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 70,
+        "x": "10",
+        "y": "7",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 71,
+        "x": "1",
+        "y": "8",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 72,
+        "x": "2",
+        "y": "8",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 73,
+        "x": "3",
+        "y": "8",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 74,
+        "x": "4",
+        "y": "8",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 75,
+        "x": "5",
+        "y": "8",
+        "age_group": "22–25",
+        "age_label": "22–25 (32.7%)",
+        "reported_share": 32.7,
+        "tile_count": 33,
+        "tile_share_rounded": 33
+      },
+      {
+        "tile": 76,
+        "x": "6",
+        "y": "8",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 77,
+        "x": "7",
+        "y": "8",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 78,
+        "x": "8",
+        "y": "8",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 79,
+        "x": "9",
+        "y": "8",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 80,
+        "x": "10",
+        "y": "8",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 81,
+        "x": "1",
+        "y": "9",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 82,
+        "x": "2",
+        "y": "9",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 83,
+        "x": "3",
+        "y": "9",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 84,
+        "x": "4",
+        "y": "9",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 85,
+        "x": "5",
+        "y": "9",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 86,
+        "x": "6",
+        "y": "9",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 87,
+        "x": "7",
+        "y": "9",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 88,
+        "x": "8",
+        "y": "9",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 89,
+        "x": "9",
+        "y": "9",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 90,
+        "x": "10",
+        "y": "9",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 91,
+        "x": "1",
+        "y": "10",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 92,
+        "x": "2",
+        "y": "10",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 93,
+        "x": "3",
+        "y": "10",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 94,
+        "x": "4",
+        "y": "10",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 95,
+        "x": "5",
+        "y": "10",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 96,
+        "x": "6",
+        "y": "10",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 97,
+        "x": "7",
+        "y": "10",
+        "age_group": "26–39",
+        "age_label": "26–39 (21.5%)",
+        "reported_share": 21.5,
+        "tile_count": 22,
+        "tile_share_rounded": 22
+      },
+      {
+        "tile": 98,
+        "x": "8",
+        "y": "10",
+        "age_group": "40+",
+        "age_label": "40+ (3.9%)",
+        "reported_share": 3.9,
+        "tile_count": 3,
+        "tile_share_rounded": 3
+      },
+      {
+        "tile": 99,
+        "x": "9",
+        "y": "10",
+        "age_group": "40+",
+        "age_label": "40+ (3.9%)",
+        "reported_share": 3.9,
+        "tile_count": 3,
+        "tile_share_rounded": 3
+      },
+      {
+        "tile": 100,
+        "x": "10",
+        "y": "10",
+        "age_group": "40+",
+        "age_label": "40+ (3.9%)",
+        "reported_share": 3.9,
+        "tile_count": 3,
+        "tile_share_rounded": 3
+      }
+    ]
+  },
+  "width": 850,
+  "height": 560,
+  "mark": {
+    "type": "rect",
+    "stroke": "#ffffff",
+    "strokeWidth": 3,
+    "cornerRadius": 3
+  },
+  "encoding": {
+    "x": {
+      "field": "x",
+      "type": "ordinal",
+      "sort": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "axis": null,
+      "scale": {
+        "paddingInner": 0.08,
+        "paddingOuter": 0.02
+      }
+    },
+    "y": {
+      "field": "y",
+      "type": "ordinal",
+      "sort": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "axis": null,
+      "scale": {
+        "paddingInner": 0.08,
+        "paddingOuter": 0.02
+      }
+    },
+    "color": {
+      "field": "age_label",
+      "type": "nominal",
+      "title": "Age band · reported share",
+      "sort": [
+        "Under 12 (3.6%)",
+        "12–16 (6.5%)",
+        "17–21 (31.8%)",
+        "22–25 (32.7%)",
+        "26–39 (21.5%)",
+        "40+ (3.9%)"
+      ],
+      "scale": {
+        "domain": [
+          "Under 12 (3.6%)",
+          "12–16 (6.5%)",
+          "17–21 (31.8%)",
+          "22–25 (32.7%)",
+          "26–39 (21.5%)",
+          "40+ (3.9%)"
+        ],
+        "range": [
+          "#b8d8e8",
+          "#78b8c7",
+          "#55a69a",
+          "#29867e",
+          "#f0b45c",
+          "#df7c58"
+        ]
+      },
+      "legend": {
+        "orient": "bottom",
+        "direction": "horizontal",
+        "columns": 3,
+        "labelLimit": 180
+      }
+    },
+    "tooltip": [
+      {
+        "field": "age_group",
+        "type": "nominal",
+        "title": "Age band"
+      },
+      {
+        "field": "reported_share",
+        "type": "quantitative",
+        "title": "Reported share",
+        "format": ".1f"
+      },
+      {
+        "field": "tile_count",
+        "type": "quantitative",
+        "title": "Waffle tiles (rounded)",
+        "format": ".0f"
+      }
+    ]
+  },
+  "config": {
+    "background": "#ffffff",
+    "view": {
+      "stroke": null
+    },
+    "legend": {
+      "labelColor": "#354052",
+      "titleColor": "#253246",
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "symbolType": "square"
+    },
+    "title": {
+      "font": "Arial",
+      "color": "#162235",
+      "subtitleFont": "Arial",
+      "subtitleColor": "#566477"
+    },
+    "axis": {
+      "labelFont": "Arial",
+      "titleFont": "Arial"
+    }
+  }
+}

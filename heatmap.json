@@ -1,0 +1,113 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://gist.githubusercontent.com/aromerovilla/b4a745bb18205a64a43770a2dc3e5307/raw/9d6a29a488e08401b9dcc74122ba9ef4829a0e74/anime.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "rating": "number"
+      }
+    }
+  },
+  "transform": [
+    {
+      "filter": "isValid(datum.rating) && isValid(datum.genre) && datum.genre !== ''"
+    },
+    {
+      "calculate": "split(datum.genre, ', ')",
+      "as": "genre_list"
+    },
+    {
+      "flatten": [
+        "genre_list"
+      ],
+      "as": [
+        "genre"
+      ]
+    }
+  ],
+  "width": 650,
+  "height": 620,
+  "title": {
+    "text": "MyAnimeList ratings by anime genre",
+    "subtitle": "Each cell counts anime titles in a 0.5-point rating range"
+  },
+  "mark": {
+    "type": "rect",
+    "stroke": "white",
+    "strokeWidth": 1
+  },
+  "encoding": {
+    "x": {
+      "field": "rating",
+      "type": "quantitative",
+      "bin": {
+        "step": 0.5
+      },
+      "scale": {
+        "domain": [
+          0,
+          10
+        ]
+      },
+      "axis": {
+        "title": "Average MyAnimeList rating",
+        "values": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10
+        ]
+      }
+    },
+    "y": {
+      "field": "genre",
+      "type": "nominal",
+      "sort": "ascending",
+      "axis": {
+        "title": "Anime genre",
+        "labelLimit": 160
+      }
+    },
+    "color": {
+      "aggregate": "count",
+      "type": "quantitative",
+      "title": "Anime titles",
+      "scale": {
+        "scheme": "yellowgreenblue"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "genre",
+        "type": "nominal",
+        "title": "Genre"
+      },
+      {
+        "field": "rating",
+        "type": "quantitative",
+        "bin": {
+          "step": 0.5
+        },
+        "title": "MAL rating"
+      },
+      {
+        "aggregate": "count",
+        "type": "quantitative",
+        "title": "Anime titles"
+      }
+    ]
+  },
+  "config": {
+    "axis": {
+      "grid": false,
+      "labelFontSize": 11,
+      "titleFontSize": 13
+    },
+    "view": {
+      "stroke": null
+    }
+  }
+}

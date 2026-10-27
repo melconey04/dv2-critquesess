@@ -1,0 +1,2759 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Ai-Kon",
+        "country": "Canada",
+        "city": "Winnipeg",
+        "state_province": "Manitoba",
+        "month_held": "February & July",
+        "established": 2001,
+        "latitude": 49.8844,
+        "longitude": -97.14704,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/6183235",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Ai-Kon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Ai-Kon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.14704,
+          49.8844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Animaritime",
+        "country": "Canada",
+        "city": "Fredericton",
+        "state_province": "New Brunswick",
+        "month_held": "July",
+        "established": 2004,
+        "latitude": 45.94541,
+        "longitude": -66.66558,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5957776",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Animaritime",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Animaritime"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.66558,
+          45.94541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Animate! Raleigh",
+        "country": "United States",
+        "city": "Raleigh",
+        "state_province": "North Carolina",
+        "month_held": "January",
+        "established": 2024,
+        "latitude": 35.7721,
+        "longitude": -78.63861,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4487042",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Animate!_Raleigh",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "Animate! Raleigh; Animazement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63861,
+          35.7721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Animazement",
+        "country": "United States",
+        "city": "Raleigh",
+        "state_province": "North Carolina",
+        "month_held": "May",
+        "established": 1998,
+        "latitude": 35.7721,
+        "longitude": -78.63861,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4487042",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Animazement",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "Animate! Raleigh; Animazement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63861,
+          35.7721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Boston",
+        "country": "United States",
+        "city": "Boston",
+        "state_province": "Massachusetts",
+        "month_held": "March/April",
+        "established": 2003,
+        "latitude": 42.35843,
+        "longitude": -71.05977,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4930956",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Boston",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Boston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05977,
+          42.35843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Central",
+        "country": "United States",
+        "city": "Rosemont",
+        "state_province": "Illinois",
+        "month_held": "May",
+        "established": 1998,
+        "latitude": 41.99531,
+        "longitude": -87.88451,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4908179",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Central",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "Anime Central; Anime Midwest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88451,
+          41.99531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Detour",
+        "country": "United States",
+        "city": "Minneapolis",
+        "state_province": "Minnesota",
+        "month_held": "April",
+        "established": 2004,
+        "latitude": 44.97997,
+        "longitude": -93.26384,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5037649",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Detour",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Detour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26384,
+          44.97997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Evolution",
+        "country": "Canada",
+        "city": "Vancouver",
+        "state_province": "British Columbia",
+        "month_held": "July",
+        "established": 1998,
+        "latitude": 49.24966,
+        "longitude": -123.11934,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/6173331",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Evolution",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "Anime Evolution; Anime Revolution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11934,
+          49.24966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Expo",
+        "country": "United States",
+        "city": "Los Angeles",
+        "state_province": "California",
+        "month_held": "July",
+        "established": 1992,
+        "latitude": 34.05223,
+        "longitude": -118.24368,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5368361",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Expo",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Expo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24368,
+          34.05223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Festival Orlando",
+        "country": "United States",
+        "city": "Orlando",
+        "state_province": "Florida",
+        "month_held": "June",
+        "established": 2000,
+        "latitude": 28.53834,
+        "longitude": -81.37924,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4167147",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Festival_Orlando",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Festival Orlando"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37924,
+          28.53834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Festival Wichita",
+        "country": "United States",
+        "city": "Wichita",
+        "state_province": "Kansas",
+        "month_held": "July",
+        "established": 2005,
+        "latitude": 37.69224,
+        "longitude": -97.33754,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4281730",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Festival_Wichita",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Festival Wichita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33754,
+          37.69224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Frontier",
+        "country": "United States",
+        "city": "Fort Worth",
+        "state_province": "Texas",
+        "month_held": "December",
+        "established": 2021,
+        "latitude": 32.72541,
+        "longitude": -97.32085,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4691930",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Frontier",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Frontier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.32085,
+          32.72541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Impulse",
+        "country": "United States",
+        "city": "Pomona",
+        "state_province": "California",
+        "month_held": "February",
+        "established": 2016,
+        "latitude": 34.05529,
+        "longitude": -117.75228,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5384170",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Impulse_Universe",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Impulse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.75228,
+          34.05529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Los Angeles",
+        "country": "United States",
+        "city": "Long Beach",
+        "state_province": "California",
+        "month_held": "January",
+        "established": 2005,
+        "latitude": 33.76696,
+        "longitude": -118.18923,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5367929",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Los_Angeles",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Los Angeles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18923,
+          33.76696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Matsuri",
+        "country": "United States",
+        "city": "Houston",
+        "state_province": "Texas",
+        "month_held": "July",
+        "established": 2007,
+        "latitude": 29.76328,
+        "longitude": -95.36327,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4699066",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Matsuri",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "Anime Matsuri; Oni-Con"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36327,
+          29.76328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Midwest",
+        "country": "United States",
+        "city": "Rosemont",
+        "state_province": "Illinois",
+        "month_held": "July",
+        "established": 2011,
+        "latitude": 41.99531,
+        "longitude": -87.88451,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4908179",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Midwest",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "Anime Central; Anime Midwest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88451,
+          41.99531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Milwaukee",
+        "country": "United States",
+        "city": "Milwaukee",
+        "state_province": "Wisconsin",
+        "month_held": "February",
+        "established": 2007,
+        "latitude": 43.0389,
+        "longitude": -87.90647,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5263045",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Milwaukee",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Milwaukee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90647,
+          43.0389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime NebrasKon",
+        "country": "United States",
+        "city": "Council Bluffs",
+        "state_province": "Iowa",
+        "month_held": "October",
+        "established": 2004,
+        "latitude": 41.26194,
+        "longitude": -95.86083,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4852832",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_NebrasKon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime NebrasKon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.86083,
+          41.26194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime North",
+        "country": "Canada",
+        "city": "Toronto",
+        "state_province": "Ontario",
+        "month_held": "May",
+        "established": 1997,
+        "latitude": 43.70643,
+        "longitude": -79.39864,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/6167865",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_North",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39864,
+          43.70643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime NYC",
+        "country": "United States",
+        "city": "New York City",
+        "state_province": "New York",
+        "month_held": "August",
+        "established": 2017,
+        "latitude": 40.71427,
+        "longitude": -74.00597,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5128581",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_NYC",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime NYC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Pasadena",
+        "country": "United States",
+        "city": "Pasadena",
+        "state_province": "California",
+        "month_held": "November",
+        "established": 2018,
+        "latitude": 34.14778,
+        "longitude": -118.14452,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5381396",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Pasadena",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Pasadena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.14452,
+          34.14778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Revolution",
+        "country": "Canada",
+        "city": "Vancouver",
+        "state_province": "British Columbia",
+        "month_held": "August",
+        "established": 2012,
+        "latitude": 49.24966,
+        "longitude": -123.11934,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/6173331",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Revolution",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "Anime Evolution; Anime Revolution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11934,
+          49.24966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime USA",
+        "country": "United States",
+        "city": "Chantilly",
+        "state_province": "Virginia",
+        "month_held": "October/November",
+        "established": 1999,
+        "latitude": 38.89428,
+        "longitude": -77.4311,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4751935",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_USA",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4311,
+          38.89428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Weekend Atlanta",
+        "country": "United States",
+        "city": "Atlanta",
+        "state_province": "Georgia",
+        "month_held": "December",
+        "established": 1995,
+        "latitude": 33.749,
+        "longitude": -84.38798,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4180439",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Weekend_Atlanta",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Weekend Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38798,
+          33.749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "AnimeIowa",
+        "country": "United States",
+        "city": "Des Moines",
+        "state_province": "Iowa",
+        "month_held": "July",
+        "established": 1997,
+        "latitude": 41.60054,
+        "longitude": -93.60911,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4853828",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/AnimeIowa",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "AnimeIowa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.60911,
+          41.60054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Animethon",
+        "country": "Canada",
+        "city": "Edmonton",
+        "state_province": "Alberta",
+        "month_held": "August",
+        "established": 1994,
+        "latitude": 53.55014,
+        "longitude": -113.46871,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5946768",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Animethon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Animethon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.46871,
+          53.55014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Arkansas Anime Festival",
+        "country": "United States",
+        "city": "Springdale",
+        "state_province": "Arkansas",
+        "month_held": "June",
+        "established": 2007,
+        "latitude": 36.18674,
+        "longitude": -94.12881,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4132093",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Arkansas_Anime_Festival",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Arkansas Anime Festival"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.12881,
+          36.18674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "A-Kon",
+        "country": "United States",
+        "city": "Irving",
+        "state_province": "Texas",
+        "month_held": "June",
+        "established": 1990,
+        "latitude": 32.81402,
+        "longitude": -96.94889,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4700168",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/A-Kon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "A-Kon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.94889,
+          32.81402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Bak-Anime",
+        "country": "United States",
+        "city": "Bakersfield",
+        "state_province": "California",
+        "month_held": "May",
+        "established": 2010,
+        "latitude": 35.37329,
+        "longitude": -119.01871,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5325738",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Bak-Anime",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Bak-Anime"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.01871,
+          35.37329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Castle Point Anime Convention",
+        "country": "United States",
+        "city": "Secaucus",
+        "state_province": "New Jersey",
+        "month_held": "April/May",
+        "established": 2008,
+        "latitude": 40.78955,
+        "longitude": -74.05653,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5104504",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Castle_Point_Anime_Convention",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Castle Point Anime Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05653,
+          40.78955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "ColossalCon",
+        "country": "United States",
+        "city": "Sandusky",
+        "state_province": "Ohio",
+        "month_held": "June",
+        "established": 2002,
+        "latitude": 41.44894,
+        "longitude": -82.70796,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5170691",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/ColossalCon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "ColossalCon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70796,
+          41.44894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Con-Nichiwa",
+        "country": "United States",
+        "city": "Tucson",
+        "state_province": "Arizona",
+        "month_held": "March",
+        "established": 2010,
+        "latitude": 32.22174,
+        "longitude": -110.92648,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5318313",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Con-Nichiwa",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Con-Nichiwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.92648,
+          32.22174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "EvilleCon",
+        "country": "United States",
+        "city": "Owensboro",
+        "state_province": "Kentucky",
+        "month_held": "March",
+        "established": 2009,
+        "latitude": 37.77422,
+        "longitude": -87.11333,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4303436",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/EvilleCon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "EvilleCon; OMGcon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.11333,
+          37.77422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "FanimeCon",
+        "country": "United States",
+        "city": "San Jose",
+        "state_province": "California",
+        "month_held": "May",
+        "established": 1994,
+        "latitude": 37.33939,
+        "longitude": -121.89496,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5392171",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/FanimeCon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "FanimeCon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.89496,
+          37.33939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "G-Anime",
+        "country": "Canada",
+        "city": "Gatineau",
+        "state_province": "Quebec",
+        "month_held": "January",
+        "established": 2009,
+        "latitude": 45.47723,
+        "longitude": -75.70164,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5959974",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/G-Anime",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "G-Anime"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70164,
+          45.47723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Ikkicon",
+        "country": "United States",
+        "city": "Round Rock",
+        "state_province": "Texas",
+        "month_held": "January",
+        "established": 2007,
+        "latitude": 30.50826,
+        "longitude": -97.6789,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4724129",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Ikkicon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Ikkicon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6789,
+          30.50826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "JAFAX",
+        "country": "United States",
+        "city": "Grand Rapids",
+        "state_province": "Michigan",
+        "month_held": "June",
+        "established": 1996,
+        "latitude": 42.96336,
+        "longitude": -85.66809,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4994358",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/JAFAX",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "JAFAX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66809,
+          42.96336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Kami-Con",
+        "country": "United States",
+        "city": "Birmingham",
+        "state_province": "Alabama",
+        "month_held": "February",
+        "established": 2009,
+        "latitude": 33.52066,
+        "longitude": -86.80249,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4049979",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Kami-Con",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Kami-Con"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80249,
+          33.52066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Katsucon",
+        "country": "United States",
+        "city": "National Harbor",
+        "state_province": "Maryland",
+        "month_held": "February",
+        "established": 1995,
+        "latitude": 38.78264,
+        "longitude": -77.01506,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/7276754",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Katsucon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Katsucon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01506,
+          38.78264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Kawaii Kon",
+        "country": "United States",
+        "city": "Honolulu",
+        "state_province": "Hawaii",
+        "month_held": "March/April",
+        "established": 2005,
+        "latitude": 21.30694,
+        "longitude": -157.85833,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5856195",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Kawaii_Kon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Kawaii Kon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.85833,
+          21.30694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "KimoKawaii",
+        "country": "United States",
+        "city": "Conroe",
+        "state_province": "Texas",
+        "month_held": "June",
+        "established": 2002,
+        "latitude": 30.31188,
+        "longitude": -95.45605,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4682991",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/KimoKawaii",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "KimoKawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.45605,
+          30.31188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Kitsune Kon",
+        "country": "United States",
+        "city": "Green Bay",
+        "state_province": "Wisconsin",
+        "month_held": "July",
+        "established": 2011,
+        "latitude": 44.51916,
+        "longitude": -88.01983,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5254962",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Kitsune_Kon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Kitsune Kon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01983,
+          44.51916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Kumoricon",
+        "country": "United States",
+        "city": "Portland",
+        "state_province": "Oregon",
+        "month_held": "October",
+        "established": 2003,
+        "latitude": 45.52345,
+        "longitude": -122.67621,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5746545",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Kumoricon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Kumoricon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67621,
+          45.52345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Matsuricon",
+        "country": "United States",
+        "city": "Columbus",
+        "state_province": "Ohio",
+        "month_held": "August",
+        "established": 2006,
+        "latitude": 39.96118,
+        "longitude": -82.99879,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4509177",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Matsuricon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Matsuricon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99879,
+          39.96118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Metrocon",
+        "country": "United States",
+        "city": "Tampa",
+        "state_province": "Florida",
+        "month_held": "June",
+        "established": 2003,
+        "latitude": 27.94752,
+        "longitude": -82.45843,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4174757",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Metrocon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Metrocon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.45843,
+          27.94752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Middle Tennessee Anime Convention",
+        "country": "United States",
+        "city": "Nashville",
+        "state_province": "Tennessee",
+        "month_held": "April",
+        "established": 1999,
+        "latitude": 36.16589,
+        "longitude": -86.78444,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4644585",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Middle_Tennessee_Anime_Convention",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Middle Tennessee Anime Convention"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78444,
+          36.16589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Nadeshicon",
+        "country": "Canada",
+        "city": "Quebec City",
+        "state_province": "Quebec",
+        "month_held": "April",
+        "established": 2011,
+        "latitude": 46.81228,
+        "longitude": -71.21454,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/6325494",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Nadeshicon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Nadeshicon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.21454,
+          46.81228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Naka-Kon",
+        "country": "United States",
+        "city": "Overland Park",
+        "state_province": "Kansas",
+        "month_held": "May",
+        "established": 2005,
+        "latitude": 38.98223,
+        "longitude": -94.67079,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4276873",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Naka-Kon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Naka-Kon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.67079,
+          38.98223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Nan Desu Kan",
+        "country": "United States",
+        "city": "Aurora",
+        "state_province": "Colorado",
+        "month_held": "September",
+        "established": 1997,
+        "latitude": 39.72943,
+        "longitude": -104.83192,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5412347",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Nan_Desu_Kan",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Nan Desu Kan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83192,
+          39.72943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Nekocon",
+        "country": "United States",
+        "city": "Hampton",
+        "state_province": "Virginia",
+        "month_held": "November",
+        "established": 1998,
+        "latitude": 37.02987,
+        "longitude": -76.34522,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4762894",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Nekocon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Nekocon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34522,
+          37.02987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "No Brand Con",
+        "country": "United States",
+        "city": "Eau Claire",
+        "state_province": "Wisconsin",
+        "month_held": "May",
+        "established": 2002,
+        "latitude": 44.81135,
+        "longitude": -91.49849,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5251436",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/No_Brand_Con",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "No Brand Con"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.49849,
+          44.81135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Ohayocon",
+        "country": "United States",
+        "city": "Dayton",
+        "state_province": "Ohio",
+        "month_held": "January/February",
+        "established": 2001,
+        "latitude": 39.75895,
+        "longitude": -84.19161,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4509884",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Ohayocon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Ohayocon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19161,
+          39.75895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "OMGcon",
+        "country": "United States",
+        "city": "Owensboro",
+        "state_province": "Kentucky",
+        "month_held": "June",
+        "established": 2006,
+        "latitude": 37.77422,
+        "longitude": -87.11333,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4303436",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/OMGcon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "EvilleCon; OMGcon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.11333,
+          37.77422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Oni-Con",
+        "country": "United States",
+        "city": "Houston",
+        "state_province": "Texas",
+        "month_held": "October/November",
+        "established": 2004,
+        "latitude": 29.76328,
+        "longitude": -95.36327,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4699066",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Oni-Con",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "Anime Matsuri; Oni-Con"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36327,
+          29.76328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Otafest",
+        "country": "Canada",
+        "city": "Calgary",
+        "state_province": "Alberta",
+        "month_held": "May",
+        "established": 1999,
+        "latitude": 51.05011,
+        "longitude": -114.08529,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5913490",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Otafest",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Otafest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.08529,
+          51.05011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Otakon",
+        "country": "United States",
+        "city": "Washington",
+        "state_province": "D.C.",
+        "month_held": "July/August",
+        "established": 1994,
+        "latitude": 38.89511,
+        "longitude": -77.03637,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4140963",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Otakon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Otakon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03637,
+          38.89511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Otakuthon",
+        "country": "Canada",
+        "city": "Montreal",
+        "state_province": "Quebec",
+        "month_held": "August",
+        "established": 2006,
+        "latitude": 45.50884,
+        "longitude": -73.58781,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/6077243",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Otakuthon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Otakuthon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58781,
+          45.50884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "PortConMaine",
+        "country": "United States",
+        "city": "South Portland",
+        "state_province": "Maine",
+        "month_held": "June",
+        "established": 2002,
+        "latitude": 43.64147,
+        "longitude": -70.24088,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4979244",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/PortConMaine",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "PortConMaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.24088,
+          43.64147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "QC Anime-zing!",
+        "country": "United States",
+        "city": "Davenport",
+        "state_province": "Iowa",
+        "month_held": "July",
+        "established": 2010,
+        "latitude": 41.52364,
+        "longitude": -90.57764,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4853423",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/QC_Anime-zing!",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "QC Anime-zing!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.57764,
+          41.52364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Saboten Con",
+        "country": "United States",
+        "city": "Phoenix",
+        "state_province": "Arizona",
+        "month_held": "September",
+        "established": 2008,
+        "latitude": 33.44838,
+        "longitude": -112.07404,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5308655",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Saboten_Con",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Saboten Con"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.07404,
+          33.44838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "SacAnime",
+        "country": "United States",
+        "city": "Sacramento",
+        "state_province": "California",
+        "month_held": "January, April, September",
+        "established": 2004,
+        "latitude": 38.58157,
+        "longitude": -121.4944,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5389489",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/SacAnime",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "SacAnime"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4944,
+          38.58157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Sakura-Con",
+        "country": "United States",
+        "city": "Seattle",
+        "state_province": "Washington",
+        "month_held": "April",
+        "established": 1998,
+        "latitude": 47.60621,
+        "longitude": -122.33207,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5809844",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Sakura-Con",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Sakura-Con"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33207,
+          47.60621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "San Japan",
+        "country": "United States",
+        "city": "San Antonio",
+        "state_province": "Texas",
+        "month_held": "August/September",
+        "established": 2008,
+        "latitude": 29.42412,
+        "longitude": -98.49363,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4726206",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/San_Japan",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "San Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49363,
+          29.42412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Setsucon",
+        "country": "United States",
+        "city": "Altoona",
+        "state_province": "Pennsylvania",
+        "month_held": "January/February",
+        "established": 2007,
+        "latitude": 40.51868,
+        "longitude": -78.39474,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5178195",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Setsucon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Setsucon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.39474,
+          40.51868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "SNAFU Con",
+        "country": "United States",
+        "city": "Reno",
+        "state_province": "Nevada",
+        "month_held": "November",
+        "established": 2010,
+        "latitude": 39.52963,
+        "longitude": -119.8138,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5511077",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/SNAFU_Con",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "SNAFU Con"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8138,
+          39.52963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Tekko",
+        "country": "United States",
+        "city": "Pittsburgh",
+        "state_province": "Pennsylvania",
+        "month_held": "July",
+        "established": 2003,
+        "latitude": 40.44062,
+        "longitude": -79.99589,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5206379",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Tekko_(convention)",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Tekko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99589,
+          40.44062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Tokyo, OK",
+        "country": "United States",
+        "city": "Tulsa",
+        "state_province": "Oklahoma",
+        "month_held": "July",
+        "established": 2008,
+        "latitude": 36.15398,
+        "longitude": -95.99277,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4553433",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Tokyo,_OK",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Tokyo, OK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.99277,
+          36.15398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Tora-Con",
+        "country": "United States",
+        "city": "Rochester",
+        "state_province": "New York",
+        "month_held": "April",
+        "established": 2005,
+        "latitude": 43.15478,
+        "longitude": -77.61556,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/5134086",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Tora-Con",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Tora-Con"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.61556,
+          43.15478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Tsubasacon",
+        "country": "United States",
+        "city": "Charleston",
+        "state_province": "West Virginia",
+        "month_held": "October",
+        "established": 2004,
+        "latitude": 38.34982,
+        "longitude": -81.63262,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4801859",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Tsubasacon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Tsubasacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63262,
+          38.34982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Yama-Con",
+        "country": "United States",
+        "city": "Pigeon Forge",
+        "state_province": "Tennessee",
+        "month_held": "December",
+        "established": 2012,
+        "latitude": 35.78842,
+        "longitude": -83.55433,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4649251",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Yama-Con",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Yama-Con"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.55433,
+          35.78842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Youmacon",
+        "country": "United States",
+        "city": "Detroit",
+        "state_province": "Michigan",
+        "month_held": "October/November",
+        "established": 2005,
+        "latitude": 42.33143,
+        "longitude": -83.04575,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/4990729",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Youmacon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Youmacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.04575,
+          42.33143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Friends",
+        "country": "Brazil",
+        "city": "S\u00e3o Paulo",
+        "state_province": "",
+        "month_held": "July",
+        "established": 2003,
+        "latitude": -23.5475,
+        "longitude": -46.63611,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/3448439",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Friends",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Friends"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63611,
+          -23.5475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Summit",
+        "country": "Brazil",
+        "city": "Bras\u00edlia",
+        "state_province": "",
+        "month_held": "May",
+        "established": 2022,
+        "latitude": -15.77972,
+        "longitude": -47.92972,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/3469058",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Summit",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Summit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.92972,
+          -15.77972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "AniManGaki",
+        "country": "Malaysia",
+        "city": "Seri Kembangan",
+        "state_province": "",
+        "month_held": "varies",
+        "established": 2009,
+        "latitude": 3.03333,
+        "longitude": 101.71667,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1744246",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/AniManGaki",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "AniManGaki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71667,
+          3.03333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Festival Asia",
+        "country": "Thailand",
+        "city": "Bangkok",
+        "state_province": "",
+        "month_held": "varies",
+        "established": 2015,
+        "latitude": 13.75398,
+        "longitude": 100.50144,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1609350",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Festival_Asia",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Festival Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50144,
+          13.75398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Festival Asia",
+        "country": "Indonesia",
+        "city": "Jakarta",
+        "state_province": "",
+        "month_held": "September",
+        "established": 2012,
+        "latitude": -6.21462,
+        "longitude": 106.84513,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1642911",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Festival_Asia",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Festival Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84513,
+          -6.21462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Festival Asia",
+        "country": "Malaysia",
+        "city": "Kuala Lumpur",
+        "state_province": "",
+        "month_held": "varies",
+        "established": 2012,
+        "latitude": 3.1412,
+        "longitude": 101.68653,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1735161",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Festival_Asia",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "Anime Festival Asia; Comic Fiesta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.68653,
+          3.1412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime Festival Asia",
+        "country": "Singapore",
+        "city": "Singapore",
+        "state_province": "",
+        "month_held": "November",
+        "established": 2008,
+        "latitude": 1.28967,
+        "longitude": 103.85007,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1880252",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_Festival_Asia",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime Festival Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85007,
+          1.28967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Anime X Game Festival",
+        "country": "South Korea",
+        "city": "Goyang",
+        "state_province": "",
+        "month_held": "December",
+        "established": 2018,
+        "latitude": 37.65639,
+        "longitude": 126.835,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1842485",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Anime_X_Game_Festival",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Anime X Game Festival"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.835,
+          37.65639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "AnimeJapan",
+        "country": "Japan",
+        "city": "Tokyo",
+        "state_province": "",
+        "month_held": "March",
+        "established": 2014,
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1850147",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/AnimeJapan",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "AnimeJapan; Comiket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "AVCon",
+        "country": "Australia",
+        "city": "Adelaide",
+        "state_province": "",
+        "month_held": "July",
+        "established": 2002,
+        "latitude": -34.92866,
+        "longitude": 138.59863,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/2078025",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/AVCon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "AVCon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.59863,
+          -34.92866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Comic Fiesta",
+        "country": "Malaysia",
+        "city": "Kuala Lumpur",
+        "state_province": "",
+        "month_held": "December",
+        "established": 2002,
+        "latitude": 3.1412,
+        "longitude": 101.68653,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1735161",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Comic_Fiesta",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "Anime Festival Asia; Comic Fiesta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.68653,
+          3.1412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Comic World",
+        "country": "South Korea",
+        "city": "Seoul",
+        "state_province": "",
+        "month_held": "varies",
+        "established": 1999,
+        "latitude": 37.566,
+        "longitude": 126.9784,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1835848",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Comic_World",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Comic World"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9784,
+          37.566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Comifuro",
+        "country": "Indonesia",
+        "city": "BSD City",
+        "state_province": "",
+        "month_held": "varies",
+        "established": 2012,
+        "latitude": -6.30056,
+        "longitude": 106.65222,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://en.wikipedia.org/wiki/BSD_City",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Comifuro",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Comifuro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.65222,
+          -6.30056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Comiket",
+        "country": "Japan",
+        "city": "Tokyo",
+        "state_province": "",
+        "month_held": "August and December",
+        "established": 1975,
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1850147",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Comiket",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 2,
+        "conventions_at_location": "AnimeJapan; Comiket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Cosplay Mania",
+        "country": "Philippines",
+        "city": "Pasay",
+        "state_province": "",
+        "month_held": "September/October",
+        "established": 2008,
+        "latitude": 14.53748,
+        "longitude": 121.00144,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1694611",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Cosplay_Mania",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Cosplay Mania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.00144,
+          14.53748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Jump Festa",
+        "country": "Japan",
+        "city": "Chiba",
+        "state_province": "",
+        "month_held": "December",
+        "established": 1999,
+        "latitude": 35.6,
+        "longitude": 140.11667,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/2113015",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Jump_Festa",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Jump Festa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11667,
+          35.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Kadokawa Light Novel Expo",
+        "country": "Japan",
+        "city": "Saitama",
+        "state_province": "",
+        "month_held": "varies",
+        "established": 2020,
+        "latitude": 35.90807,
+        "longitude": 139.65657,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/6940394",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Kadokawa_Light_Novel_Expo",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Kadokawa Light Novel Expo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65657,
+          35.90807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "NAJ Cosfest",
+        "country": "India",
+        "city": "Kohima",
+        "state_province": "",
+        "month_held": "July",
+        "established": 2013,
+        "latitude": 25.67467,
+        "longitude": 94.11099,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/1266366",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/NAJ_Cosfest",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "NAJ Cosfest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.11099,
+          25.67467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Ozine Fest",
+        "country": "Philippines",
+        "city": "Mandaluyong",
+        "state_province": "",
+        "month_held": "April",
+        "established": 2005,
+        "latitude": 14.57837,
+        "longitude": 121.03522,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/13118244",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Ozine_Fest",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Ozine Fest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.03522,
+          14.57837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Overload",
+        "country": "New Zealand",
+        "city": "Auckland",
+        "state_province": "",
+        "month_held": "April/September",
+        "established": 2006,
+        "latitude": -36.84853,
+        "longitude": 174.76349,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/2193733",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Overload_(convention)",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Overload"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.76349,
+          -36.84853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "SMASH!",
+        "country": "Australia",
+        "city": "Sydney",
+        "state_province": "",
+        "month_held": "July",
+        "established": 2007,
+        "latitude": -33.86785,
+        "longitude": 151.20732,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/2147714",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/SMASH!_(convention)",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "SMASH!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20732,
+          -33.86785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "AnimagiC",
+        "country": "Germany",
+        "city": "Mannheim",
+        "state_province": "",
+        "month_held": "August",
+        "established": 1999,
+        "latitude": 49.4891,
+        "longitude": 8.46694,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/2873891",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/AnimagiC",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "AnimagiC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.46694,
+          49.4891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Animecon",
+        "country": "Finland",
+        "city": "Kuopio",
+        "state_province": "",
+        "month_held": "July",
+        "established": 1999,
+        "latitude": 62.89238,
+        "longitude": 27.67703,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/650224",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Animecon_(Finland)",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Animecon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.67703,
+          62.89238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Animefest",
+        "country": "Czech Republic",
+        "city": "Brno",
+        "state_province": "",
+        "month_held": "May",
+        "established": 2004,
+        "latitude": 49.19522,
+        "longitude": 16.60796,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/3078610",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Animefest",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Animefest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.60796,
+          49.19522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Connichi",
+        "country": "Germany",
+        "city": "Kassel",
+        "state_province": "",
+        "month_held": "September",
+        "established": 2002,
+        "latitude": 51.31667,
+        "longitude": 9.5,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/2892518",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Connichi",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Connichi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5,
+          51.31667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Desucon",
+        "country": "Finland",
+        "city": "Lahti",
+        "state_province": "",
+        "month_held": "June",
+        "established": 2009,
+        "latitude": 60.98267,
+        "longitude": 25.66151,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/649360",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Desucon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Desucon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.66151,
+          60.98267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Hyper Japan",
+        "country": "United Kingdom",
+        "city": "London",
+        "state_province": "",
+        "month_held": "July",
+        "established": 2010,
+        "latitude": 51.50853,
+        "longitude": -0.12574,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/2643743",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Hyper_Japan",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Hyper Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12574,
+          51.50853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Japan Expo",
+        "country": "France",
+        "city": "Paris",
+        "state_province": "",
+        "month_held": "July",
+        "established": 1999,
+        "latitude": 48.85341,
+        "longitude": 2.3488,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/2988507",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Japan_Expo",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Japan Expo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488,
+          48.85341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "J-Popcon",
+        "country": "Denmark",
+        "city": "Copenhagen",
+        "state_province": "",
+        "month_held": "April",
+        "established": 2000,
+        "latitude": 55.67594,
+        "longitude": 12.56553,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/2618425",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/J-Popcon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "J-Popcon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56553,
+          55.67594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "Manga Barcelona",
+        "country": "Spain",
+        "city": "Barcelona",
+        "state_province": "",
+        "month_held": "October",
+        "established": 1995,
+        "latitude": 41.38879,
+        "longitude": 2.15899,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/3128760",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/Manga_Barcelona",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "Manga Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15899,
+          41.38879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "convention": "N\u00e4rCon",
+        "country": "Sweden",
+        "city": "Link\u00f6ping",
+        "state_province": "",
+        "month_held": "July",
+        "established": 2002,
+        "latitude": 58.41086,
+        "longitude": 15.62157,
+        "coordinate_precision": "Listed city / locality centre",
+        "coordinate_source": "https://www.geonames.org/2694762",
+        "source_url": "https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&oldid=1377985032",
+        "convention_url": "https://en.wikipedia.org/wiki/N\u00e4rCon",
+        "retrieved_date": "2026-10-11",
+        "listings_at_location": 1,
+        "conventions_at_location": "N\u00e4rCon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.62157,
+          58.41086
+        ]
+      }
+    }
+  ]
+}

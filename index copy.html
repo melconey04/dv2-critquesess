@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Anime conventions around the world</title>
+  <style>
+    body { max-width: 1050px; margin: 32px auto; padding: 0 20px; color: #222; }
+    p { line-height: 1.5; max-width: 920px; }
+    #convention_map { max-width: 100%; overflow-x: auto; }
+    .vega-bindings { padding: 14px 0; font: 16px Arial, sans-serif; }
+    .vega-bind { margin: 10px 0; }
+    .vega-bind input[type=range] { width: 300px; vertical-align: middle; }
+  </style>
+  <script src="js/vega.min.js"></script>
+  <script src="js/vega-lite.min.js"></script>
+  <script src="js/vega-embed.min.js"></script>
+</head>
+<body>
+  <h1>Anime conventions around the world</h1>
+  <p>Move the <strong>Year slider below the map</strong> to explore when listed conventions were founded. Choose <strong>Founded by this year</strong> to see their cumulative spread, or <strong>Founded in this year</strong> to see only that year's new listings.</p>
+  <div id="convention_map"></div>
+  <p id="year_summary" aria-live="polite"></p>
+  <p>Each dot represents a listed convention at its listed city centre. Conventions in the same city overlap. Hover over a dot for its name, founding year and other listings at that location.</p>
+  <p><strong>Data coverage:</strong> 102 convention/location entries across 21 countries, with founding years from 1975 to 2024. This is a selective directory; it does not count all conventions worldwide or annual editions, and the cumulative view does not establish that a convention remained active or was historically held in the mapped city. The separate defunct/on-hiatus table is excluded.</p>
+  <p>Convention source: <a href="https://en.wikipedia.org/w/index.php?title=List_of_anime_and_manga_conventions&amp;oldid=1377985032">Wikipedia convention directory, revision 2 October 2026</a>, extracted 11 October 2026 (CC BY-SA 4.0). City coordinates: <a href="https://www.geonames.org/">GeoNames</a> (CC BY); BSD City coordinates: <a href="https://en.wikipedia.org/wiki/BSD_City">Wikipedia</a>. Country outlines: Natural Earth / world-atlas, converted to GeoJSON.</p>
+  <script src="js/map.js"></script>
+</body>
+</html>

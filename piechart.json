@@ -1,0 +1,123 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Dentsu 2025 Global Research Report. Its global anime-content subscription responses were Netflix 48%, Disney+ 32%, and Prime Video 29%. These are multi-select response rates, so the pie normalises the three reported response rates to show their share of these three mentions (total 109), not market share or the share of unique viewers.",
+  "title": {
+    "text": "Which platforms do people subscribe to for anime?",
+    "subtitle": "Share of the three reported platform responses; multi-select survey, not market share",
+    "anchor": "start",
+    "fontSize": 20,
+    "subtitleFontSize": 12,
+    "subtitleColor": "#596273"
+  },
+  "width": 430,
+  "height": 400,
+  "data": {
+    "values": [
+      {
+        "service": "Netflix",
+        "responseRate": 48
+      },
+      {
+        "service": "Disney+",
+        "responseRate": 32
+      },
+      {
+        "service": "Prime Video",
+        "responseRate": 29
+      }
+    ]
+  },
+  "transform": [
+    {
+      "calculate": "datum.responseRate / 109",
+      "as": "shareOfTopThreeResponses"
+    },
+    {
+      "calculate": "datum.responseRate + '%'",
+      "as": "sliceLabel"
+    }
+  ],
+  "encoding": {
+    "theta": {
+      "field": "responseRate",
+      "type": "quantitative",
+      "stack": true
+    },
+    "color": {
+      "field": "service",
+      "type": "nominal",
+      "scale": {
+        "scheme": "tableau10"
+      },
+      "legend": {
+        "title": "Platform",
+        "orient": "right"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "service",
+        "type": "nominal",
+        "title": "Platform"
+      },
+      {
+        "field": "responseRate",
+        "type": "quantitative",
+        "title": "Survey response rate",
+        "format": ".0f"
+      },
+      {
+        "field": "shareOfTopThreeResponses",
+        "type": "quantitative",
+        "title": "Share of these three responses",
+        "format": ".1%"
+      }
+    ]
+  },
+  "config": {
+    "background": "white",
+    "view": {
+      "stroke": null
+    },
+    "legend": {
+      "labelFont": "Arial",
+      "titleFont": "Arial",
+      "labelFontSize": 12
+    },
+    "title": {
+      "font": "Arial",
+      "color": "#171b24",
+      "subtitleFont": "Arial"
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "arc",
+        "outerRadius": 145,
+        "stroke": "white",
+        "strokeWidth": 2
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "radius": 88,
+        "font": "Arial",
+        "fontSize": 18,
+        "fontWeight": 700,
+        "align": "center",
+        "baseline": "middle"
+      },
+      "encoding": {
+        "text": {
+          "field": "sliceLabel",
+          "type": "nominal"
+        },
+        "color": {
+          "value": "#ffffff"
+        }
+      }
+    }
+  ]
+}

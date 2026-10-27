@@ -1,0 +1,71 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 850,
+  "height": 470,
+  "title": {
+    "text": "Notable Anime Conventions by Country",
+    "subtitle": "Count of listed conventions established, including active and defunct events"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/ne_110m_admin_0_countries.topojson",
+    "format": {
+      "type": "topojson",
+      "feature": "ne_110m_admin_0_countries"
+    }
+  },
+  "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "data": {
+          "url": "anime_conventions_by_country.csv"
+        },
+        "key": "map_name",
+        "fields": [
+          "country",
+          "count"
+        ]
+      }
+    }
+  ],
+  "projection": {
+    "type": "equalEarth"
+  },
+  "mark": {
+    "type": "geoshape",
+    "stroke": "white",
+    "strokeWidth": 0.5
+  },
+  "encoding": {
+    "color": {
+      "condition": {
+        "test": "isValid(datum.count)",
+        "field": "count",
+        "type": "quantitative",
+        "title": "Conventions listed",
+        "scale": {
+          "scheme": "blues"
+        }
+      },
+      "value": "#e3e7ec"
+    },
+    "tooltip": [
+      {
+        "field": "properties.name",
+        "type": "nominal",
+        "title": "Country"
+      },
+      {
+        "field": "count",
+        "type": "quantitative",
+        "title": "Conventions listed"
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "background": "white"
+  }
+}

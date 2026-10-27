@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MyAnimeList ratings by genre</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+  <style>
+    body { margin: 0; padding: 32px; font-family: Arial, sans-serif; background: #f4f6f8; color: #20242a; }
+    main { max-width: 1050px; margin: auto; padding: 24px; background: white; border-radius: 12px; box-shadow: 0 3px 16px #00000014; }
+    h1 { margin: 0 0 8px; font-size: 28px; }
+    p { margin: 0 0 20px; color: #555; line-height: 1.5; }
+    #chart { overflow-x: auto; }
+    @media (max-width: 650px) { body { padding: 12px; } main { padding: 14px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>What ratings do anime genres receive?</h1>
+    <p>Each square counts anime titles by genre and average MyAnimeList rating. Hover over a square for its count.</p>
+    <div id="chart"></div>
+  </main>
+  <script>
+    vegaEmbed("#chart", "anime_genre_rating_heatmap.json", { actions: true })
+      .catch(error => {
+        document.getElementById("chart").textContent = "Chart failed to load. Check the data connection and browser console.";
+        console.error(error);
+      });
+  </script>
+</body>
+</html>
+

@@ -1,0 +1,1206 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "MyAnimeList all-time top-anime rankings in dated yearly snapshots from 2020 to 2026. Rank #1 appears at the top; the 2024 snapshot is a complete top 10 dated 22 October.",
+  "title": {
+    "text": "MAL all-time top 10, 2020–2026",
+    "subtitle": [
+      "Rank #1 at the top • Categorical MAL ranks by year"
+    ],
+    "anchor": "start",
+    "fontSize": 22,
+    "subtitleFontSize": 13,
+    "subtitleColor": "#586174",
+    "offset": 14
+  },
+  "width": 790,
+  "height": 460,
+  "padding": {
+    "left": 8,
+    "right": 8,
+    "top": 12,
+    "bottom": 8
+  },
+  "data": {
+    "values": [
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "year": 2020,
+        "yearLabel": "2020",
+        "rank": 1,
+        "rankLabel": "#1",
+        "snapshot": "7 Nov 2020",
+        "segment": 0
+      },
+      {
+        "title": "Steins;Gate",
+        "year": 2020,
+        "yearLabel": "2020",
+        "rank": 2,
+        "rankLabel": "#2",
+        "snapshot": "7 Nov 2020",
+        "segment": 0
+      },
+      {
+        "title": "Gintama°",
+        "year": 2020,
+        "yearLabel": "2020",
+        "rank": 3,
+        "rankLabel": "#3",
+        "snapshot": "7 Nov 2020",
+        "segment": 0
+      },
+      {
+        "title": "Hunter x Hunter (2011)",
+        "year": 2020,
+        "yearLabel": "2020",
+        "rank": 4,
+        "rankLabel": "#4",
+        "snapshot": "7 Nov 2020",
+        "segment": 0
+      },
+      {
+        "title": "Legend of the Galactic Heroes",
+        "year": 2020,
+        "yearLabel": "2020",
+        "rank": 5,
+        "rankLabel": "#5",
+        "snapshot": "7 Nov 2020",
+        "segment": 0
+      },
+      {
+        "title": "Gintama'",
+        "year": 2020,
+        "yearLabel": "2020",
+        "rank": 6,
+        "rankLabel": "#6",
+        "snapshot": "7 Nov 2020",
+        "segment": 0
+      },
+      {
+        "title": "Attack on Titan Season 3 Part 2",
+        "year": 2020,
+        "yearLabel": "2020",
+        "rank": 7,
+        "rankLabel": "#7",
+        "snapshot": "7 Nov 2020",
+        "segment": 0
+      },
+      {
+        "title": "Gintama': Enchousen",
+        "year": 2020,
+        "yearLabel": "2020",
+        "rank": 8,
+        "rankLabel": "#8",
+        "snapshot": "7 Nov 2020",
+        "segment": 0
+      },
+      {
+        "title": "March Comes in Like a Lion 2nd Season",
+        "year": 2020,
+        "yearLabel": "2020",
+        "rank": 9,
+        "rankLabel": "#9",
+        "snapshot": "7 Nov 2020",
+        "segment": 0
+      },
+      {
+        "title": "A Silent Voice",
+        "year": 2020,
+        "yearLabel": "2020",
+        "rank": 10,
+        "rankLabel": "#10",
+        "snapshot": "7 Nov 2020",
+        "segment": 0
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "year": 2021,
+        "yearLabel": "2021",
+        "rank": 1,
+        "rankLabel": "#1",
+        "snapshot": "14 Jan 2021",
+        "segment": 0
+      },
+      {
+        "title": "Attack on Titan: The Final Season",
+        "year": 2021,
+        "yearLabel": "2021",
+        "rank": 2,
+        "rankLabel": "#2",
+        "snapshot": "14 Jan 2021",
+        "segment": 0
+      },
+      {
+        "title": "Steins;Gate",
+        "year": 2021,
+        "yearLabel": "2021",
+        "rank": 3,
+        "rankLabel": "#3",
+        "snapshot": "14 Jan 2021",
+        "segment": 0
+      },
+      {
+        "title": "Gintama°",
+        "year": 2021,
+        "yearLabel": "2021",
+        "rank": 4,
+        "rankLabel": "#4",
+        "snapshot": "14 Jan 2021",
+        "segment": 0
+      },
+      {
+        "title": "Hunter x Hunter (2011)",
+        "year": 2021,
+        "yearLabel": "2021",
+        "rank": 5,
+        "rankLabel": "#5",
+        "snapshot": "14 Jan 2021",
+        "segment": 0
+      },
+      {
+        "title": "Attack on Titan Season 3",
+        "year": 2021,
+        "yearLabel": "2021",
+        "rank": 6,
+        "rankLabel": "#6",
+        "snapshot": "14 Jan 2021",
+        "segment": 0
+      },
+      {
+        "title": "Gintama'",
+        "year": 2021,
+        "yearLabel": "2021",
+        "rank": 7,
+        "rankLabel": "#7",
+        "snapshot": "14 Jan 2021",
+        "segment": 0
+      },
+      {
+        "title": "Gintama': Enchousen",
+        "year": 2021,
+        "yearLabel": "2021",
+        "rank": 8,
+        "rankLabel": "#8",
+        "snapshot": "14 Jan 2021",
+        "segment": 0
+      },
+      {
+        "title": "March Comes in Like a Lion 2nd Season",
+        "year": 2021,
+        "yearLabel": "2021",
+        "rank": 9,
+        "rankLabel": "#9",
+        "snapshot": "14 Jan 2021",
+        "segment": 0
+      },
+      {
+        "title": "Gintama.",
+        "year": 2021,
+        "yearLabel": "2021",
+        "rank": 10,
+        "rankLabel": "#10",
+        "snapshot": "14 Jan 2021",
+        "segment": 0
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "year": 2022,
+        "yearLabel": "2022",
+        "rank": 1,
+        "rankLabel": "#1",
+        "snapshot": "Aug 2022",
+        "segment": 0
+      },
+      {
+        "title": "Kaguya-sama: Love Is War -Ultra Romantic-",
+        "year": 2022,
+        "yearLabel": "2022",
+        "rank": 2,
+        "rankLabel": "#2",
+        "snapshot": "Aug 2022",
+        "segment": 0
+      },
+      {
+        "title": "Gintama°",
+        "year": 2022,
+        "yearLabel": "2022",
+        "rank": 3,
+        "rankLabel": "#3",
+        "snapshot": "Aug 2022",
+        "segment": 0
+      },
+      {
+        "title": "Steins;Gate",
+        "year": 2022,
+        "yearLabel": "2022",
+        "rank": 4,
+        "rankLabel": "#4",
+        "snapshot": "Aug 2022",
+        "segment": 0
+      },
+      {
+        "title": "Attack on Titan Season 3 Part 2",
+        "year": 2022,
+        "yearLabel": "2022",
+        "rank": 5,
+        "rankLabel": "#5",
+        "snapshot": "Aug 2022",
+        "segment": 1
+      },
+      {
+        "title": "Gintama'",
+        "year": 2022,
+        "yearLabel": "2022",
+        "rank": 6,
+        "rankLabel": "#6",
+        "snapshot": "Aug 2022",
+        "segment": 0
+      },
+      {
+        "title": "Gintama: The Final",
+        "year": 2022,
+        "yearLabel": "2022",
+        "rank": 7,
+        "rankLabel": "#7",
+        "snapshot": "Aug 2022",
+        "segment": 0
+      },
+      {
+        "title": "Gintama': Enchousen",
+        "year": 2022,
+        "yearLabel": "2022",
+        "rank": 8,
+        "rankLabel": "#8",
+        "snapshot": "Aug 2022",
+        "segment": 0
+      },
+      {
+        "title": "Hunter x Hunter (2011)",
+        "year": 2022,
+        "yearLabel": "2022",
+        "rank": 9,
+        "rankLabel": "#9",
+        "snapshot": "Aug 2022",
+        "segment": 0
+      },
+      {
+        "title": "Fruits Basket: The Final",
+        "year": 2022,
+        "yearLabel": "2022",
+        "rank": 10,
+        "rankLabel": "#10",
+        "snapshot": "Aug 2022",
+        "segment": 0
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "year": 2023,
+        "yearLabel": "2023",
+        "rank": 1,
+        "rankLabel": "#1",
+        "snapshot": "28 May 2023",
+        "segment": 0
+      },
+      {
+        "title": "Bleach: Thousand-Year Blood War",
+        "year": 2023,
+        "yearLabel": "2023",
+        "rank": 2,
+        "rankLabel": "#2",
+        "snapshot": "28 May 2023",
+        "segment": 0
+      },
+      {
+        "title": "Steins;Gate",
+        "year": 2023,
+        "yearLabel": "2023",
+        "rank": 3,
+        "rankLabel": "#3",
+        "snapshot": "28 May 2023",
+        "segment": 0
+      },
+      {
+        "title": "Attack on Titan Season 3 Part 2",
+        "year": 2023,
+        "yearLabel": "2023",
+        "rank": 4,
+        "rankLabel": "#4",
+        "snapshot": "28 May 2023",
+        "segment": 1
+      },
+      {
+        "title": "Attack on Titan: The Final Season - Kanketsu-hen",
+        "year": 2023,
+        "yearLabel": "2023",
+        "rank": 5,
+        "rankLabel": "#5",
+        "snapshot": "28 May 2023",
+        "segment": 0
+      },
+      {
+        "title": "Gintama°",
+        "year": 2023,
+        "yearLabel": "2023",
+        "rank": 6,
+        "rankLabel": "#6",
+        "snapshot": "28 May 2023",
+        "segment": 0
+      },
+      {
+        "title": "Kaguya-sama: Love Is War -Ultra Romantic-",
+        "year": 2023,
+        "yearLabel": "2023",
+        "rank": 7,
+        "rankLabel": "#7",
+        "snapshot": "28 May 2023",
+        "segment": 0
+      },
+      {
+        "title": "Gintama'",
+        "year": 2023,
+        "yearLabel": "2023",
+        "rank": 8,
+        "rankLabel": "#8",
+        "snapshot": "28 May 2023",
+        "segment": 0
+      },
+      {
+        "title": "Gintama: The Final",
+        "year": 2023,
+        "yearLabel": "2023",
+        "rank": 9,
+        "rankLabel": "#9",
+        "snapshot": "28 May 2023",
+        "segment": 0
+      },
+      {
+        "title": "Hunter x Hunter (2011)",
+        "year": 2023,
+        "yearLabel": "2023",
+        "rank": 10,
+        "rankLabel": "#10",
+        "snapshot": "28 May 2023",
+        "segment": 0
+      },
+      {
+        "title": "Sousou no Frieren",
+        "year": 2024,
+        "yearLabel": "2024",
+        "rank": 1,
+        "rankLabel": "#1",
+        "snapshot": "22 Oct 2024",
+        "segment": 0
+      },
+      {
+        "title": "One Piece Fan Letter",
+        "year": 2024,
+        "yearLabel": "2024",
+        "rank": 2,
+        "rankLabel": "#2",
+        "snapshot": "22 Oct 2024",
+        "segment": 0
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "year": 2024,
+        "yearLabel": "2024",
+        "rank": 3,
+        "rankLabel": "#3",
+        "snapshot": "22 Oct 2024",
+        "segment": 0
+      },
+      {
+        "title": "Steins;Gate",
+        "year": 2024,
+        "yearLabel": "2024",
+        "rank": 4,
+        "rankLabel": "#4",
+        "snapshot": "22 Oct 2024",
+        "segment": 0
+      },
+      {
+        "title": "Attack on Titan Season 3 Part 2",
+        "year": 2024,
+        "yearLabel": "2024",
+        "rank": 5,
+        "rankLabel": "#5",
+        "snapshot": "22 Oct 2024",
+        "segment": 1
+      },
+      {
+        "title": "Gintama°",
+        "year": 2024,
+        "yearLabel": "2024",
+        "rank": 6,
+        "rankLabel": "#6",
+        "snapshot": "22 Oct 2024",
+        "segment": 0
+      },
+      {
+        "title": "Bleach: Thousand-Year Blood War, Part 3",
+        "year": 2024,
+        "yearLabel": "2024",
+        "rank": 7,
+        "rankLabel": "#7",
+        "snapshot": "22 Oct 2024",
+        "segment": 0
+      },
+      {
+        "title": "Gintama: The Final",
+        "year": 2024,
+        "yearLabel": "2024",
+        "rank": 8,
+        "rankLabel": "#8",
+        "snapshot": "22 Oct 2024",
+        "segment": 0
+      },
+      {
+        "title": "Gintama'",
+        "year": 2024,
+        "yearLabel": "2024",
+        "rank": 9,
+        "rankLabel": "#9",
+        "snapshot": "22 Oct 2024",
+        "segment": 0
+      },
+      {
+        "title": "Hunter x Hunter (2011)",
+        "year": 2024,
+        "yearLabel": "2024",
+        "rank": 10,
+        "rankLabel": "#10",
+        "snapshot": "22 Oct 2024",
+        "segment": 0
+      },
+      {
+        "title": "Sousou no Frieren",
+        "year": 2025,
+        "yearLabel": "2025",
+        "rank": 1,
+        "rankLabel": "#1",
+        "snapshot": "2 May 2025",
+        "segment": 0
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "year": 2025,
+        "yearLabel": "2025",
+        "rank": 2,
+        "rankLabel": "#2",
+        "snapshot": "2 May 2025",
+        "segment": 0
+      },
+      {
+        "title": "Steins;Gate",
+        "year": 2025,
+        "yearLabel": "2025",
+        "rank": 3,
+        "rankLabel": "#3",
+        "snapshot": "2 May 2025",
+        "segment": 0
+      },
+      {
+        "title": "Attack on Titan Season 3 Part 2",
+        "year": 2025,
+        "yearLabel": "2025",
+        "rank": 4,
+        "rankLabel": "#4",
+        "snapshot": "2 May 2025",
+        "segment": 1
+      },
+      {
+        "title": "One Piece Fan Letter",
+        "year": 2025,
+        "yearLabel": "2025",
+        "rank": 5,
+        "rankLabel": "#5",
+        "snapshot": "2 May 2025",
+        "segment": 0
+      },
+      {
+        "title": "Gintama°",
+        "year": 2025,
+        "yearLabel": "2025",
+        "rank": 6,
+        "rankLabel": "#6",
+        "snapshot": "2 May 2025",
+        "segment": 0
+      },
+      {
+        "title": "Gintama: The Final",
+        "year": 2025,
+        "yearLabel": "2025",
+        "rank": 7,
+        "rankLabel": "#7",
+        "snapshot": "2 May 2025",
+        "segment": 0
+      },
+      {
+        "title": "Hunter x Hunter (2011)",
+        "year": 2025,
+        "yearLabel": "2025",
+        "rank": 8,
+        "rankLabel": "#8",
+        "snapshot": "2 May 2025",
+        "segment": 0
+      },
+      {
+        "title": "Gintama'",
+        "year": 2025,
+        "yearLabel": "2025",
+        "rank": 9,
+        "rankLabel": "#9",
+        "snapshot": "2 May 2025",
+        "segment": 0
+      },
+      {
+        "title": "Gintama': Enchousen",
+        "year": 2025,
+        "yearLabel": "2025",
+        "rank": 10,
+        "rankLabel": "#10",
+        "snapshot": "2 May 2025",
+        "segment": 1
+      },
+      {
+        "title": "Sousou no Frieren",
+        "year": 2026,
+        "yearLabel": "2026",
+        "rank": 1,
+        "rankLabel": "#1",
+        "snapshot": "7 Oct 2026",
+        "segment": 0
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "year": 2026,
+        "yearLabel": "2026",
+        "rank": 2,
+        "rankLabel": "#2",
+        "snapshot": "7 Oct 2026",
+        "segment": 0
+      },
+      {
+        "title": "Re:Zero Season 4",
+        "year": 2026,
+        "yearLabel": "2026",
+        "rank": 3,
+        "rankLabel": "#3",
+        "snapshot": "7 Oct 2026",
+        "segment": 0
+      },
+      {
+        "title": "Steins;Gate",
+        "year": 2026,
+        "yearLabel": "2026",
+        "rank": 4,
+        "rankLabel": "#4",
+        "snapshot": "7 Oct 2026",
+        "segment": 0
+      },
+      {
+        "title": "Chainsaw Man: Reze Arc",
+        "year": 2026,
+        "yearLabel": "2026",
+        "rank": 5,
+        "rankLabel": "#5",
+        "snapshot": "7 Oct 2026",
+        "segment": 0
+      },
+      {
+        "title": "Gintama: The Final",
+        "year": 2026,
+        "yearLabel": "2026",
+        "rank": 6,
+        "rankLabel": "#6",
+        "snapshot": "7 Oct 2026",
+        "segment": 0
+      },
+      {
+        "title": "Gintama°",
+        "year": 2026,
+        "yearLabel": "2026",
+        "rank": 7,
+        "rankLabel": "#7",
+        "snapshot": "7 Oct 2026",
+        "segment": 0
+      },
+      {
+        "title": "Attack on Titan Season 3 Part 2",
+        "year": 2026,
+        "yearLabel": "2026",
+        "rank": 8,
+        "rankLabel": "#8",
+        "snapshot": "7 Oct 2026",
+        "segment": 1
+      },
+      {
+        "title": "Steel Ball Run: JoJo’s Bizarre Adventure",
+        "year": 2026,
+        "yearLabel": "2026",
+        "rank": 9,
+        "rankLabel": "#9",
+        "snapshot": "7 Oct 2026",
+        "segment": 0
+      },
+      {
+        "title": "Hunter x Hunter (2011)",
+        "year": 2026,
+        "yearLabel": "2026",
+        "rank": 10,
+        "rankLabel": "#10",
+        "snapshot": "7 Oct 2026",
+        "segment": 0
+      }
+    ]
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2.6,
+        "opacity": 0.82
+      },
+      "encoding": {
+        "x": {
+          "field": "yearLabel",
+          "type": "ordinal",
+          "sort": [
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "2025",
+            "2026"
+          ],
+          "scale": {
+            "domain": [
+              "2020",
+              "2021",
+              "2022",
+              "2023",
+              "2024",
+              "2025",
+              "2026"
+            ]
+          },
+          "axis": {
+            "title": "Snapshot year",
+            "labelAngle": 0,
+            "labelPadding": 12,
+            "domain": false,
+            "ticks": false,
+            "grid": false
+          }
+        },
+        "y": {
+          "field": "rankLabel",
+          "type": "ordinal",
+          "sort": [
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5",
+            "#6",
+            "#7",
+            "#8",
+            "#9",
+            "#10"
+          ],
+          "scale": {
+            "domain": [
+              "#1",
+              "#2",
+              "#3",
+              "#4",
+              "#5",
+              "#6",
+              "#7",
+              "#8",
+              "#9",
+              "#10"
+            ]
+          },
+          "axis": {
+            "title": "MAL rank (categorical)",
+            "labelFontSize": 11,
+            "labelPadding": 8,
+            "domain": false,
+            "ticks": false,
+            "grid": true,
+            "gridColor": "#e7eaf0"
+          }
+        },
+        "color": {
+          "field": "title",
+          "type": "nominal",
+          "legend": null,
+          "scale": {
+            "domain": [
+              "Fullmetal Alchemist: Brotherhood",
+              "Steins;Gate",
+              "Gintama°",
+              "Hunter x Hunter (2011)",
+              "Legend of the Galactic Heroes",
+              "Gintama'",
+              "Attack on Titan Season 3 Part 2",
+              "Gintama': Enchousen",
+              "March Comes in Like a Lion 2nd Season",
+              "A Silent Voice",
+              "Attack on Titan: The Final Season",
+              "Attack on Titan Season 3",
+              "Gintama.",
+              "Kaguya-sama: Love Is War -Ultra Romantic-",
+              "Gintama: The Final",
+              "Fruits Basket: The Final",
+              "Bleach: Thousand-Year Blood War",
+              "Attack on Titan: The Final Season - Kanketsu-hen",
+              "Sousou no Frieren",
+              "One Piece Fan Letter",
+              "Bleach: Thousand-Year Blood War - The Conflict",
+              "Re:Zero Season 4",
+              "Chainsaw Man: Reze Arc",
+              "Steel Ball Run: JoJo’s Bizarre Adventure"
+            ],
+            "range": [
+              "#4e79a7",
+              "#8064a2",
+              "#e15759",
+              "#76b7b2",
+              "#59a14f",
+              "#edc949",
+              "#af7aa1",
+              "#ff9da7",
+              "#9c755f",
+              "#bab0ab",
+              "#2f4b7c",
+              "#d45087",
+              "#8cd17d",
+              "#b6992d",
+              "#499894",
+              "#79706e",
+              "#b07aa1",
+              "#86bcb6",
+              "#d37295",
+              "#bd6ca8",
+              "#a0cbe8",
+              "#ffbe7d",
+              "#ff9d9a",
+              "#9c755f"
+            ]
+          }
+        },
+        "detail": [
+          {
+            "field": "title"
+          },
+          {
+            "field": "segment"
+          }
+        ],
+        "order": {
+          "field": "year",
+          "sort": "ascending"
+        },
+        "tooltip": [
+          {
+            "field": "title",
+            "type": "nominal",
+            "title": "Anime"
+          },
+          {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Snapshot year"
+          },
+          {
+            "field": "rank",
+            "type": "quantitative",
+            "title": "Rank"
+          },
+          {
+            "field": "snapshot",
+            "type": "nominal",
+            "title": "Snapshot date"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 66,
+        "stroke": "white",
+        "strokeWidth": 1.3
+      },
+      "encoding": {
+        "x": {
+          "field": "yearLabel",
+          "type": "ordinal",
+          "sort": [
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "2025",
+            "2026"
+          ],
+          "scale": {
+            "domain": [
+              "2020",
+              "2021",
+              "2022",
+              "2023",
+              "2024",
+              "2025",
+              "2026"
+            ]
+          },
+          "axis": {
+            "title": "Snapshot year",
+            "labelAngle": 0,
+            "labelPadding": 12,
+            "domain": false,
+            "ticks": false,
+            "grid": false
+          }
+        },
+        "y": {
+          "field": "rankLabel",
+          "type": "ordinal",
+          "sort": [
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5",
+            "#6",
+            "#7",
+            "#8",
+            "#9",
+            "#10"
+          ],
+          "scale": {
+            "domain": [
+              "#1",
+              "#2",
+              "#3",
+              "#4",
+              "#5",
+              "#6",
+              "#7",
+              "#8",
+              "#9",
+              "#10"
+            ]
+          },
+          "axis": {
+            "title": "MAL rank (categorical)",
+            "labelFontSize": 11,
+            "labelPadding": 8,
+            "domain": false,
+            "ticks": false,
+            "grid": true,
+            "gridColor": "#e7eaf0"
+          }
+        },
+        "color": {
+          "field": "title",
+          "type": "nominal",
+          "legend": null,
+          "scale": {
+            "domain": [
+              "Fullmetal Alchemist: Brotherhood",
+              "Steins;Gate",
+              "Gintama°",
+              "Hunter x Hunter (2011)",
+              "Legend of the Galactic Heroes",
+              "Gintama'",
+              "Attack on Titan Season 3 Part 2",
+              "Gintama': Enchousen",
+              "March Comes in Like a Lion 2nd Season",
+              "A Silent Voice",
+              "Attack on Titan: The Final Season",
+              "Attack on Titan Season 3",
+              "Gintama.",
+              "Kaguya-sama: Love Is War -Ultra Romantic-",
+              "Gintama: The Final",
+              "Fruits Basket: The Final",
+              "Bleach: Thousand-Year Blood War",
+              "Attack on Titan: The Final Season - Kanketsu-hen",
+              "Sousou no Frieren",
+              "One Piece Fan Letter",
+              "Bleach: Thousand-Year Blood War - The Conflict",
+              "Re:Zero Season 4",
+              "Chainsaw Man: Reze Arc",
+              "Steel Ball Run: JoJo’s Bizarre Adventure"
+            ],
+            "range": [
+              "#4e79a7",
+              "#8064a2",
+              "#e15759",
+              "#76b7b2",
+              "#59a14f",
+              "#edc949",
+              "#af7aa1",
+              "#ff9da7",
+              "#9c755f",
+              "#bab0ab",
+              "#2f4b7c",
+              "#d45087",
+              "#8cd17d",
+              "#b6992d",
+              "#499894",
+              "#79706e",
+              "#b07aa1",
+              "#86bcb6",
+              "#d37295",
+              "#bd6ca8",
+              "#a0cbe8",
+              "#ffbe7d",
+              "#ff9d9a",
+              "#9c755f"
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "title",
+            "type": "nominal",
+            "title": "Anime"
+          },
+          {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Snapshot year"
+          },
+          {
+            "field": "rank",
+            "type": "quantitative",
+            "title": "Rank"
+          },
+          {
+            "field": "snapshot",
+            "type": "nominal",
+            "title": "Snapshot date"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2020"
+        },
+        {
+          "calculate": "'#' + datum.rank + '  ' + datum.title",
+          "as": "label"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 10,
+        "fontSize": 10,
+        "fontWeight": 600,
+        "color": "#232938"
+      },
+      "encoding": {
+        "x": {
+          "field": "yearLabel",
+          "type": "ordinal",
+          "sort": [
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "2025",
+            "2026"
+          ],
+          "scale": {
+            "domain": [
+              "2020",
+              "2021",
+              "2022",
+              "2023",
+              "2024",
+              "2025",
+              "2026"
+            ]
+          },
+          "axis": {
+            "title": "Snapshot year",
+            "labelAngle": 0,
+            "labelPadding": 12,
+            "domain": false,
+            "ticks": false,
+            "grid": false
+          }
+        },
+        "y": {
+          "field": "rankLabel",
+          "type": "ordinal",
+          "sort": [
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5",
+            "#6",
+            "#7",
+            "#8",
+            "#9",
+            "#10"
+          ],
+          "scale": {
+            "domain": [
+              "#1",
+              "#2",
+              "#3",
+              "#4",
+              "#5",
+              "#6",
+              "#7",
+              "#8",
+              "#9",
+              "#10"
+            ]
+          },
+          "axis": {
+            "title": "MAL rank (categorical)",
+            "labelFontSize": 11,
+            "labelPadding": 8,
+            "domain": false,
+            "ticks": false,
+            "grid": true,
+            "gridColor": "#e7eaf0"
+          }
+        },
+        "text": {
+          "field": "label",
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2026"
+        },
+        {
+          "calculate": "'#' + datum.rank + '  ' + datum.title",
+          "as": "label"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -10,
+        "fontSize": 10,
+        "fontWeight": 600,
+        "color": "#232938"
+      },
+      "encoding": {
+        "x": {
+          "field": "yearLabel",
+          "type": "ordinal",
+          "sort": [
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "2025",
+            "2026"
+          ],
+          "scale": {
+            "domain": [
+              "2020",
+              "2021",
+              "2022",
+              "2023",
+              "2024",
+              "2025",
+              "2026"
+            ]
+          },
+          "axis": {
+            "title": "Snapshot year",
+            "labelAngle": 0,
+            "labelPadding": 12,
+            "domain": false,
+            "ticks": false,
+            "grid": false
+          }
+        },
+        "y": {
+          "field": "rankLabel",
+          "type": "ordinal",
+          "sort": [
+            "#1",
+            "#2",
+            "#3",
+            "#4",
+            "#5",
+            "#6",
+            "#7",
+            "#8",
+            "#9",
+            "#10"
+          ],
+          "scale": {
+            "domain": [
+              "#1",
+              "#2",
+              "#3",
+              "#4",
+              "#5",
+              "#6",
+              "#7",
+              "#8",
+              "#9",
+              "#10"
+            ]
+          },
+          "axis": {
+            "title": "MAL rank (categorical)",
+            "labelFontSize": 11,
+            "labelPadding": 8,
+            "domain": false,
+            "ticks": false,
+            "grid": true,
+            "gridColor": "#e7eaf0"
+          }
+        },
+        "text": {
+          "field": "label",
+          "type": "nominal"
+        }
+      }
+    }
+  ],
+  "config": {
+    "background": "#ffffff",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelColor": "#343b4b",
+      "titleColor": "#343b4b",
+      "labelFont": "Arial",
+      "titleFont": "Arial"
+    },
+    "title": {
+      "font": "Arial",
+      "color": "#171b24",
+      "subtitleFont": "Arial"
+    }
+  }
+}

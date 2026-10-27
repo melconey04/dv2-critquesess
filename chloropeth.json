@@ -1,0 +1,121 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 430,
+  "title": "Japanese animation overseas — works licensed",
+  "projection": {
+    "type": "equalEarth"
+  },
+  "data": {
+    "url": "data/countries.geojson",
+    "format": {
+      "type": "json",
+      "property": "features"
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum.properties.name !== 'Antarctica'"
+    },
+    {
+      "calculate": "toNumber(datum.id)",
+      "as": "country_id"
+    },
+    {
+      "lookup": "country_id",
+      "from": {
+        "data": {
+          "url": "data/anime_licensed_ranges.csv",
+          "format": {
+            "type": "csv"
+          }
+        },
+        "key": "country_id",
+        "fields": [
+          "country",
+          "licensed_range",
+          "source_note"
+        ]
+      }
+    },
+    {
+      "calculate": "isValid(datum.country) ? datum.country : datum.properties.name",
+      "as": "country_name"
+    },
+    {
+      "calculate": "isValid(datum.licensed_range) ? datum.licensed_range : 'Not transcribed'",
+      "as": "licensed_range"
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "stroke": "#b4bcc2",
+    "strokeWidth": 0.45
+  },
+  "encoding": {
+    "color": {
+      "condition": [
+        {
+          "test": "datum.licensed_range === 'Domestic market'",
+          "value": "#333333"
+        },
+        {
+          "test": "datum.licensed_range === 'Not transcribed'",
+          "value": "#d5d5d5"
+        }
+      ],
+      "field": "licensed_range",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "0",
+          "1–9",
+          "10–29",
+          "30–49",
+          "50–99",
+          "100 or more"
+        ],
+        "range": [
+          "#ffffff",
+          "#fff3bc",
+          "#d2e28e",
+          "#91a9d2",
+          "#eeaac6",
+          "#f05a2a"
+        ]
+      },
+      "legend": {
+        "title": "Works licensed",
+        "orient": "right",
+        "symbolStrokeColor": "#a8a8a8"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "country_name",
+        "type": "nominal",
+        "title": "Country"
+      },
+      {
+        "field": "licensed_range",
+        "type": "nominal",
+        "title": "Works licensed (range)"
+      },
+      {
+        "field": "source_note",
+        "type": "nominal",
+        "title": "Source"
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": "#dddddd"
+    },
+    "background": "#e6f4fa",
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12
+    }
+  }
+}

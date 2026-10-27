@@ -1,0 +1,97 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 1333,
+  "height": 430,
+  "title": {
+    "text": "Japanese Animation Market Trends, 2013–2024",
+    "subtitle": "Market size by category (billion yen)"
+  },
+  "data": {
+    "values": [
+      {"year": 2013, "TV": 102.7, "Movie": 47.0, "Video": 115.3, "Internet Distribution": 34.0, "Merchandising": 598.5, "Music": 29.6, "Overseas": 282.3, "Pachinko": 242.7, "Live Entertainment": 24.8},
+      {"year": 2014, "TV": 111.6, "Movie": 41.7, "Video": 102.1, "Internet Distribution": 40.8, "Merchandising": 655.2, "Music": 29.2, "Overseas": 326.6, "Pachinko": 298.1, "Live Entertainment": 31.8},
+      {"year": 2015, "TV": 107.3, "Movie": 47.7, "Video": 92.8, "Internet Distribution": 43.7, "Merchandising": 579.4, "Music": 32.4, "Overseas": 583.4, "Pachinko": 294.1, "Live Entertainment": 48.4},
+      {"year": 2016, "TV": 105.6, "Movie": 66.3, "Video": 78.8, "Internet Distribution": 47.8, "Merchandising": 552.2, "Music": 36.9, "Overseas": 767.7, "Pachinko": 281.8, "Live Entertainment": 53.2},
+      {"year": 2017, "TV": 106.1, "Movie": 41.0, "Video": 76.5, "Internet Distribution": 54.0, "Merchandising": 503.7, "Music": 34.4, "Overseas": 994.8, "Pachinko": 268.7, "Live Entertainment": 62.9},
+      {"year": 2018, "TV": 113.7, "Movie": 42.6, "Video": 58.7, "Internet Distribution": 59.5, "Merchandising": 500.3, "Music": 35.8, "Overseas": 1009.2, "Pachinko": 283.5, "Live Entertainment": 77.4},
+      {"year": 2019, "TV": 94.8, "Movie": 69.2, "Video": 56.3, "Internet Distribution": 68.5, "Merchandising": 586.8, "Music": 33.7, "Overseas": 1200.9, "Pachinko": 319.9, "Live Entertainment": 84.4},
+      {"year": 2020, "TV": 84.0, "Movie": 55.4, "Video": 46.6, "Internet Distribution": 93.0, "Merchandising": 581.9, "Music": 27.6, "Overseas": 1239.4, "Pachinko": 263.0, "Live Entertainment": 29.0},
+      {"year": 2021, "TV": 90.6, "Movie": 60.2, "Video": 66.2, "Internet Distribution": 154.3, "Merchandising": 663.1, "Music": 31.7, "Overseas": 1313.4, "Pachinko": 305.6, "Live Entertainment": 57.1},
+      {"year": 2022, "TV": 94.3, "Movie": 78.5, "Video": 38.5, "Internet Distribution": 165.2, "Merchandising": 669.3, "Music": 27.4, "Overseas": 1459.2, "Pachinko": 298.1, "Live Entertainment": 97.2},
+      {"year": 2023, "TV": 97.3, "Movie": 68.1, "Video": 36.2, "Internet Distribution": 250.1, "Merchandising": 700.8, "Music": 26.7, "Overseas": 1722.2, "Pachinko": 337.0, "Live Entertainment": 108.1},
+      {"year": 2024, "TV": 98.2, "Movie": 69.0, "Video": 38.4, "Internet Distribution": 265.5, "Merchandising": 748.8, "Music": 26.6, "Overseas": 2170.2, "Pachinko": 301.5, "Live Entertainment": 122.5}
+    ]
+  },
+  "transform": [
+    {
+      "fold": [
+        "TV",
+        "Movie",
+        "Video",
+        "Internet Distribution",
+        "Merchandising",
+        "Music",
+        "Overseas",
+        "Pachinko",
+        "Live Entertainment"
+      ],
+      "as": ["category", "market"]
+    }
+  ],
+  "mark": {"type": "bar"},
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "title": "Year",
+      "axis": {"labelAngle": 0}
+    },
+    "y": {
+      "aggregate": "sum",
+      "field": "market",
+      "type": "quantitative",
+      "title": "Market size (billion yen)",
+      "scale": {"domain": [0, 4000]},
+      "stack": "zero"
+    },
+    "color": {
+      "field": "category",
+      "type": "nominal",
+      "title": "Market category",
+      "scale": {
+        "domain": [
+          "TV",
+          "Movie",
+          "Video",
+          "Internet Distribution",
+          "Merchandising",
+          "Music",
+          "Overseas",
+          "Pachinko",
+          "Live Entertainment"
+        ],
+        "range": [
+          "#f4a1aa",
+          "#b7d8d0",
+          "#b7a4d8",
+          "#f28e2b",
+          "#8bcf9b",
+          "#f5d6a4",
+          "#e88973",
+          "#f2cf72",
+          "#74c7d4"
+        ]
+      }
+    },
+    "tooltip": [
+      {"field": "year", "type": "ordinal", "title": "Year"},
+      {"field": "category", "type": "nominal", "title": "Category"},
+      {"field": "market", "type": "quantitative", "title": "Billion yen", "format": ",.1f"}
+    ]
+  },
+  "config": {
+    "axis": {"grid": true},
+    "view": {"stroke": null},
+    "legend": {"orient": "top", "columns": 3}
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 850,
+  "height": 450,
+  "params": [
+    {
+      "name": "selectedYear",
+      "value": 2024,
+      "bind": {
+        "input": "range",
+        "min": 1975,
+        "max": 2024,
+        "step": 1,
+        "name": "Year: "
+      }
+    },
+    {
+      "name": "yearMode",
+      "value": "Founded by this year",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Founded by this year",
+          "Founded in this year"
+        ],
+        "name": "Show: "
+      }
+    }
+  ],
+  "projection": {
+    "type": "equalEarth"
+  },
+  "layer": [
+    {
+      "data": {
+        "sphere": false
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#f2f7fb",
+        "stroke": "#c5d2da"
+      }
+    },
+    {
+      "data": {
+        "url": "data/world.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#dedede",
+        "stroke": "white",
+        "strokeWidth": 0.5
+      }
+    },
+    {
+      "data": {
+        "url": "data/conventions.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "datum.properties.established",
+          "as": "year"
+        },
+        {
+          "calculate": "datum.geometry.coordinates[0]",
+          "as": "longitude"
+        },
+        {
+          "calculate": "datum.geometry.coordinates[1]",
+          "as": "latitude"
+        },
+        {
+          "filter": "yearMode === 'Founded by this year' ? datum.year <= selectedYear : datum.year === selectedYear"
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "color": "#bd245b",
+        "size": 55,
+        "opacity": 0.65,
+        "stroke": "white",
+        "strokeWidth": 0.5
+      },
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "properties.convention",
+            "title": "Convention"
+          },
+          {
+            "field": "properties.city",
+            "title": "Listed city"
+          },
+          {
+            "field": "properties.country",
+            "title": "Country"
+          },
+          {
+            "field": "year",
+            "type": "quantitative",
+            "format": "d",
+            "title": "Founded"
+          },
+          {
+            "field": "properties.conventions_at_location",
+            "title": "Listings sharing this city"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "title": {
+      "fontSize": 16
+    },
+    "background": "white"
+  }
+}
