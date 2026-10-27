@@ -1,7 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Anime Market Growth: Domestic vs Overseas",
     "subtitle": "2015\u20132024 \u00b7 \u00a5 billion \u00b7 Source: Association of Japanese Animations",
     "font": "Poppins",
     "fontSize": 19,
@@ -9,8 +8,8 @@
     "subtitleFontSize": 12,
     "anchor": "start"
   },
-  "width": 650,
-  "height": 350,
+  "width": 860,
+  "height": 400,
   "data": {
     "values": [
       {

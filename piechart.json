@@ -15,17 +15,17 @@
     "values": [
       {
         "service": "Netflix",
-        "responseRate": 48
+        "responseRate": 43
       },
       {
         "service": "Disney+",
-        "responseRate": 32
+        "responseRate": 30
       },
       {
         "service": "Prime Video",
-        "responseRate": 29
+        "responseRate": 27
       }
-    ]
+    ] 
   },
   "transform": [
     {
