@@ -1,3 +1,19 @@
+vegaEmbed("#chart1", "chart1.json", {
+  config: {
+    title: { font: "Poppins" },
+    axis: {
+      labelFont: "Poppins",
+      titleFont: "Poppins"
+    },
+    legend: {
+      labelFont: "Poppins",
+      titleFont: "Poppins"
+    },
+    text: { font: "Poppins" }
+  }
+});
+
+
 // Display the map in the first container.
 vegaEmbed("#chart1", "stackedbarchart.json")
   .catch(console.error);
