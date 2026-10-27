@@ -1,0 +1,143 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Anime Market Growth: Domestic vs Overseas",
+    "subtitle": "2015\u20132024 \u00b7 \u00a5 billion \u00b7 Source: Association of Japanese Animations",
+    "font": "Poppins",
+    "fontSize": 19,
+    "subtitleFont": "Poppins",
+    "subtitleFontSize": 12,
+    "anchor": "start"
+  },
+  "width": 650,
+  "height": 350,
+  "data": {
+    "values": [
+      {
+        "year": 2015,
+        "market": "Domestic",
+        "value": 1194.6
+      },
+      {
+        "year": 2024,
+        "market": "Domestic",
+        "value": 1670.5
+      },
+      {
+        "year": 2015,
+        "market": "Overseas",
+        "value": 282.3
+      },
+      {
+        "year": 2024,
+        "market": "Overseas",
+        "value": 2170.2
+      }
+    ]
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "axis": {
+        "title": null,
+        "labelAngle": 0,
+        "labelFontSize": 13
+      }
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "Market size (\u00a5 billion)",
+      "scale": {
+        "zero": true
+      },
+      "axis": {
+        "grid": true
+      }
+    },
+    "color": {
+      "field": "market",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Domestic",
+          "Overseas"
+        ],
+        "range": [
+          "#5679b9",
+          "#ee8b55"
+        ]
+      },
+      "legend": {
+        "title": null,
+        "orient": "top"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "year",
+        "type": "ordinal",
+        "title": "Year"
+      },
+      {
+        "field": "market",
+        "type": "nominal",
+        "title": "Market"
+      },
+      {
+        "field": "value",
+        "type": "quantitative",
+        "format": ",.1f",
+        "title": "Market size (\u00a5B)"
+      }
+    ]
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 4
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 170
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year == 2024"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 12,
+        "fontSize": 13,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "text": {
+          "field": "value",
+          "type": "quantitative",
+          "format": ",.1f"
+        }
+      }
+    }
+  ],
+  "config": {
+    "background": "white",
+    "font": "Poppins",
+    "axis": {
+      "labelFont": "Poppins",
+      "titleFont": "Poppins"
+    },
+    "legend": {
+      "labelFont": "Poppins"
+    }
+  }
+}

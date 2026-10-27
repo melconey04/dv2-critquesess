@@ -60,3 +60,6 @@ vegaEmbed("#chart6", "piechart.json")
 
 vegaEmbed("#chart7", "heatmap.json")
 .catch(console.error);
+
+vegaEmbed("#chart8", "anime_market_slope.json")
+  .catch(console.error);
